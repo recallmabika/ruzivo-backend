@@ -1,0 +1,66 @@
+from pathlib import Path
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from peft import PeftModel
+import torch
+
+# Local adapter, not HF Inference API: custom fine-tunes aren't servable via
+# the router's hf-inference provider (confirmed 404 "Model not supported"),
+# and we have no GPU, so this loads the 1.5B base + LoRA on CPU.
+BASE_MODEL = "Qwen/Qwen2.5-1.5B"
+ADAPTER_PATH = Path(__file__).resolve().parent.parent.parent / "models" / "ruzivo-llm-v2"
+
+
+class LLMService:
+    def __init__(self):
+        self._tokenizer = None
+        self._model = None
+
+    def _load(self):
+        # Loaded lazily on first call rather than at import time, so the app
+        # can start (and /health can respond) before the ~3GB model load
+        # blocks the process. First request after startup pays this cost
+        # (~90s on CPU); later requests reuse the loaded model.
+        if self._model is not None:
+            return
+
+        self._tokenizer = AutoTokenizer.from_pretrained(str(ADAPTER_PATH))
+        base_model = AutoModelForCausalLM.from_pretrained(
+            BASE_MODEL, dtype=torch.float16, device_map="cpu"
+        )
+        self._model = PeftModel.from_pretrained(base_model, str(ADAPTER_PATH))
+        self._model.eval()
+
+    def generate(self, instruction: str, context: str = "", max_new_tokens: int = 80) -> str:
+        self._load()
+
+        # Training format was "### Instruction:\n...\n\n### Response:\n" with
+        # no context field. Context is prepended as an extra block at
+        # inference time -- the base Qwen model can generally follow this,
+        # though the LoRA wasn't trained on it specifically. Revisit if RAG
+        # answers look like they're ignoring retrieved context.
+        if context:
+            prompt = f"### Context:\n{context}\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+        else:
+            prompt = f"### Instruction:\n{instruction}\n\n### Response:\n"
+
+        inputs = self._tokenizer(prompt, return_tensors="pt")
+
+        with torch.no_grad():
+            outputs = self._model.generate(
+                **inputs,
+                max_new_tokens=max_new_tokens,
+                do_sample=True,
+                temperature=0.7,
+                top_p=0.9,
+                pad_token_id=self._tokenizer.eos_token_id,
+            )
+
+        full_text = self._tokenizer.decode(outputs[0], skip_special_tokens=True)
+
+        # Strip the echoed prompt, leaving only the generated response.
+        if "### Response:" in full_text:
+            return full_text.split("### Response:")[-1].strip()
+        return full_text.strip()
+
+
+llm_service = LLMService()

@@ -1,0 +1,815 @@
+{"id": 0, "text": "Izwi rekuti 'banga' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Mukadzi akati nhumbi dzake banga, ndiye dhu, tundu kuenda.'."}
+{"id": 1, "text": "Izwi rekuti 'banganyi' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 2, "text": "Izwi rekuti 'bangwa kana dendere' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Iti nzira bangwa'."}
+{"id": 3, "text": "Izwi rekuti 'bani kana mba' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Chipikiri chakanzi bani nembato'."}
+{"id": 4, "text": "Izwi rekuti 'barara' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Mhuka dzikati barara muvhimi dzinotiza'."}
+{"id": 5, "text": "Izwi rekuti 'bari' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Moto uri kungoti bari bari chete'."}
+{"id": 6, "text": "Izwi rekuti 'barivafa kana bafafa' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Imbwa yanga yakati barivafa kuti ikandidzirwe bvupa'."}
+{"id": 7, "text": "Izwi rekuti 'bau' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akati nyama bau'."}
+{"id": 8, "text": "Izwi rekuti 'bazanu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Ko nhai varume, hamuti nyama iyi bazanu here'."}
+{"id": 9, "text": "Izwi rekuti 'bebenu, pepu kana tangaya' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kubebenudza (Cause to recover consciousness). Kubebenuka(Recover consciousness) uye kupepuka. kana kubebenura.'."}
+{"id": 10, "text": "Izwi rekuti 'befu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Befu, mabefu kana mapefu. (Exhaled breath; 2. Sigh). kana femo. Akatura befu'."}
+{"id": 11, "text": "Izwi rekuti 'bena' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 12, "text": "Izwi rekuti 'bendekete' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 13, "text": "Izwi rekuti 'benemene' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 14, "text": "Izwi rekuti 'benengu kana penengu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kubenengudza.'."}
+{"id": 15, "text": "Izwi rekuti 'bengenu kana pengenu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kubengenudza.'."}
+{"id": 16, "text": "Izwi rekuti 'bengwa' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 17, "text": "Izwi rekuti 'bepu, pepu kana tangava' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 18, "text": "Izwi rekuti 'bera' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Zvawakati bera mumba mangu, akupinza ndiani?'."}
+{"id": 19, "text": "Izwi rekuti 'bere kana bebe' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 20, "text": "Izwi rekuti 'berekane, tande kana tora' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Ndakati berekane naye'."}
+{"id": 21, "text": "Izwi rekuti 'berengende kana dendere' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 22, "text": "Izwi rekuti 'betete' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 23, "text": "Izwi rekuti 'beza' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Zvichida ndipo panobva mazita okuti Mabeza uye Nyabeze?'."}
+{"id": 24, "text": "Izwi rekuti 'bharanganda' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 25, "text": "Izwi rekuti 'bizu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kubizudza (Make to do hard, physical work). Kubizuka (Do hard physical work).'."}
+{"id": 26, "text": "Izwi rekuti 'bwiti kana pwiti' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kubwitidza, kuvhumidza, kumwidza kana kubitidza (Suffoca te; drown). Kubwitirarinotaurwa zvakare.'."}
+{"id": 27, "text": "Izwi rekuti 'bwititi' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 28, "text": "Izwi rekuti 'bwitu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kubwitudza (Cause to flash) kana kuhwitudza. Kubwituka kana kuhwituka anowanikwa zvakare.'."}
+{"id": 29, "text": "Izwi rekuti 'bwodo kana pwete' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kubwododza (Make to talk nonsense). Kubwodoka rinotaurwa zvakare.'."}
+{"id": 30, "text": "Izwi rekuti 'bwodomo' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kubwodomoka, kubvotomoka kana kubwotomoka (Talk nonsense).'."}
+{"id": 31, "text": "Izwi rekuti 'Bububu kana tandanga' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 32, "text": "Izwi rekuti 'Bvuku' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kubvuka (Guess. Foretell). Kune mana anonzi Mabvuku muguta reHarare.'."}
+{"id": 33, "text": "Izwi rekuti 'Bvura kana pe-e' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'C[chinja | edit source]'."}
+{"id": 34, "text": "Izwi rekuti 'Chanyau' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Mamwe Mazwi - kuchanyaudza, kuchanyaura,kuchanyaura.'."}
+{"id": 35, "text": "Izwi rekuti 'chakata' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Vanhu vakati kudya chakata'."}
+{"id": 36, "text": "Izwi rekuti 'chakwa chakwa' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kana kuchinaya, vanhu Yanoti chakwa chakwa mumvura - (i.e. make a splash when walking). Kuchakwaira (Walk through very shallow water. 2. Splash by walking). Taswerochakwaira mumajahwi mumapani tichitsvaga pekurima.'."}
+{"id": 37, "text": "Izwi rekuti 'chakwata' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '2. of Being very wet - of ground). Kuchakwatiza (Make wet - especially clothes by splashing). Kuchakwatika rinotaurwa zvakare.'."}
+{"id": 38, "text": "Izwi rekuti 'chambwa' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '). Usamira padyo nedhibha, mombe dzinokuchambwadzira dhibhi muviri wose.'."}
+{"id": 39, "text": "Izwi rekuti 'chichinu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Muviri wakati mapundu chichinu'."}
+{"id": 40, "text": "Izwi rekuti 'chimhu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kuchimhuka (Be, or be able to be, drawn - water). Kuchimhura (Draw water) apa kureva kuchera.'."}
+{"id": 41, "text": "Izwi rekuti 'changinja' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akati badza changinja'."}
+{"id": 42, "text": "Izwi rekuti 'chanjandara, chachama kana chacharara.' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Tezvara akati chanjandara, mombe ibonga'."}
+{"id": 43, "text": "Izwi rekuti 'chinjinji' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Mombe dzakadya chepfu ndokufuma dzakati chinjinji'."}
+{"id": 44, "text": "Izwi rekuti 'chinjinya, chinyamunjororo kana chinyamupfukidzi' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kuchinjinyadza (Make to die suddenly - alone).Kuchinjinyara (Die alone suddenly).'."}
+{"id": 45, "text": "Izwi rekuti 'chinjiri' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 46, "text": "Izwi rekuti 'chivhu kanaa che' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'D[chinja | edit source]'."}
+{"id": 47, "text": "Izwi rekuti 'Dangara kana tangarwi' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Mukomana uye wokukara ati ndochiti dangara ndokudzipwa nenhango'."}
+{"id": 48, "text": "Izwi rekuti 'Dangurangu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akadya dakara ati dangurangu'."}
+{"id": 49, "text": "Izwi rekuti 'deke' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 50, "text": "Izwi rekuti 'dekedese' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 51, "text": "Izwi rekuti 'dekeshu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '(Cause to retrace steps or to change attitude completely. 2. Cause to eat up completely). Dekeshuka (1. Retrace one's steps;change attitude completely. 2. Be eaten upcompletely).; Mudekunye uye Dekune.'."}
+{"id": 52, "text": "Izwi rekuti 'deku deku' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Taura mazwi uchiti deku deku'."}
+{"id": 53, "text": "Izwi rekuti 'dendere' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Uchibva kuchikoro iti nenzira dendere'."}
+{"id": 54, "text": "Izwi rekuti 'denengu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Hatidi chibhende, haungatiti denengu here'."}
+{"id": 55, "text": "Izwi rekuti 'denga kana denga denga' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Tsuro yakanzi gwa netsvimbo, ndiye barabada denga'."}
+{"id": 56, "text": "Izwi rekuti 'denga denga' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akafuma achingoti denga denga nehari kutsime'."}
+{"id": 57, "text": "Izwi rekuti 'dengai' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Ndakaona munhu akati dengai pachiruvi chemba'."}
+{"id": 58, "text": "Izwi rekuti 'denge' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Tarisa kuno, ndinoti denge zvangu, kana kumbobatira kwete'."}
+{"id": 59, "text": "Izwi rekuti 'denge' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akati denge nenzira'."}
+{"id": 60, "text": "Izwi rekuti 'dengene' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudengeneka (Shake something heavy).'."}
+{"id": 61, "text": "Izwi rekuti 'dengu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudengadza (Bob, nod head). Harahwa dzinodengudzana misoro'."}
+{"id": 62, "text": "Izwi rekuti 'denhe kana denhu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Denhedza (Set in motion. Start up). Denhedza muchini'."}
+{"id": 63, "text": "Izwi rekuti 'denhu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudenhudza kana kudenhuka (Be sloping. 2. Be tilted; 3. Go down a slope). Kudenhura (Roll down, let down; a slope).'."}
+{"id": 64, "text": "Izwi rekuti 'deno kana tuzu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Murume akati achibika ndokubika mbodza ndokuti nazvo deno'."}
+{"id": 65, "text": "Izwi rekuti 'denu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 66, "text": "Izwi rekuti 'denyu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudenyura (Disappear suddenly and completely). Kudenya (Hide self. 2. Disappear quickly).'."}
+{"id": 67, "text": "Izwi rekuti 'dere' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kuteremuka.'."}
+{"id": 68, "text": "Izwi rekuti 'deru' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kuderuka (Go down steeply). Mamwe Mazwi'."}
+{"id": 69, "text": "Izwi rekuti 'detembu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudetembura (Ask repeatedly) kureva kudembetera.'."}
+{"id": 70, "text": "Izwi rekuti 'detsu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudetsudza (Make to be very productive). Fetiraiza inodetsudza munda'."}
+{"id": 71, "text": "Izwi rekuti 'deu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudeudza (Make to spill). Kudeuka kana kuteuka (Spill; 2. Set(of sun). Mvura yadeuka haichina muoreri'."}
+{"id": 72, "text": "Izwi rekuti 'didi' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'kureva gwakwai kana kukakaira.'."}
+{"id": 73, "text": "Izwi rekuti 'didimu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Ishe akati masabhuku didimu'."}
+{"id": 74, "text": "Izwi rekuti 'didinya kana didinyn'a' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudidinya kana kudidinyn'adza (Kill suddenly; Die suddenly) kureva kukwishuka.'."}
+{"id": 75, "text": "Izwi rekuti 'dinywa' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kwakanzi didinywa nemombe musango'."}
+{"id": 76, "text": "Izwi rekuti 'didiri kana bibiri' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Vane misikanzwa vakanzi didiri'."}
+{"id": 77, "text": "Izwi rekuti 'difa kana defa' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'kutaura chinhu chakakombwera - kombwe. Kudifa (Sag person or animal; 2. Be concave).'."}
+{"id": 78, "text": "Izwi rekuti 'difa difu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudifuka (Walk as short, fat person does) zvichireva kutashuka, kudifura kana kudifuka.'."}
+{"id": 79, "text": "Izwi rekuti 'diga diga' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudiga kana kutigaira (Walk vigorously (short, strong person or animal).'."}
+{"id": 80, "text": "Izwi rekuti 'digi' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 81, "text": "Izwi rekuti 'dimi' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudimika (Speak figuratively - in metaphor). Kana uchiti, \"Ndiri kutsvaga bAiza jena,\" uri kudimikira'."}
+{"id": 82, "text": "Izwi rekuti 'dimu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Dimu (Cut-off piece wood, string). Kudimudza (Cause someone to cut across string; 2. Take short cut) kureva kugurira. Dimudzira neyapakati'."}
+{"id": 83, "text": "Izwi rekuti 'dindiri' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Shato yakati mhembwe dindiri'."}
+{"id": 84, "text": "Izwi rekuti 'dindiziri' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Badza rakati dindiziri pavhiri remota'."}
+{"id": 85, "text": "Izwi rekuti 'dinga' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 86, "text": "Izwi rekuti 'dinga dinga' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 87, "text": "Izwi rekuti 'dinhu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudinhuka (Be released from restraint. Go off - spring-trap). Kuinhura (Release a pent-up force; 2. Discharge e.g. a gun). Dinhura dombo'."}
+{"id": 88, "text": "Izwi rekuti 'dirinhiri kana vhundu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akati dirinhiri ava pakati peshumba'."}
+{"id": 89, "text": "Izwi rekuti 'diti' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 90, "text": "Izwi rekuti 'duku' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Usangoti duku sowatukwa'."}
+{"id": 91, "text": "Izwi rekuti 'dukununu kana dukuzuzu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Vakangoti dukununu pamoto'."}
+{"id": 92, "text": "Izwi rekuti 'dukwa, dakwazaza kana dukwazaza' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudukwaira (Hunch oneself - sitting standing, etc).'."}
+{"id": 93, "text": "Izwi rekuti 'duma kana gon'o' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudumadza (Blunt. Notch or blade) zvichireva kugomadza kana kugon'odza. Kudumara (Become blunt).'."}
+{"id": 94, "text": "Izwi rekuti 'dumbi' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Ukatamba namaisva uchaswera wati dumbi'."}
+{"id": 95, "text": "Izwi rekuti 'dumbunu kana vhumbunu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 96, "text": "Izwi rekuti 'dumbunuru' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Ndakati pfumo rainge rakadzama dumbunuru'."}
+{"id": 97, "text": "Izwi rekuti 'dundundu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 98, "text": "Izwi rekuti 'dunduru kana tashu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akati dunduru pabhiza'."}
+{"id": 99, "text": "Izwi rekuti 'dunduzi' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 100, "text": "Izwi rekuti 'dungunu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudungunudza (Make tasty. Dungunudza tii neshuga'."}
+{"id": 101, "text": "Izwi rekuti 'dunhu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 102, "text": "Izwi rekuti 'dunhu kana dinhu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 103, "text": "Izwi rekuti 'dunzu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudunzuka (1. Tear meat; 2. Be lacerated). Nyama yerunda haidunzuki'."}
+{"id": 104, "text": "Izwi rekuti 'dzadzanu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudzadzanuka (Emerge from hiding place generally where subject was crouching). Dzadzanura (Remove from hiding place - generally close to ground).'."}
+{"id": 105, "text": "Izwi rekuti 'dzakariyata kana tsakata' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 106, "text": "Izwi rekuti 'dzaku' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudzakura (Lift heavy object). Dzakutsaku kana madzakutsaku (Heavy person or object).'."}
+{"id": 107, "text": "Izwi rekuti 'dzamara' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Anga ari pano iye zvino uno, asi angoti dzamara'."}
+{"id": 108, "text": "Izwi rekuti 'dzamhu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudzamhura kana kudzamura.'."}
+{"id": 109, "text": "Izwi rekuti 'dzamu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 110, "text": "Izwi rekuti 'dzaswa' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Ndakati, \"Ndipe chokudya,\" akati dzamwa zvake'."}
+{"id": 111, "text": "Izwi rekuti 'dzamwanya, dzamwata kana dzamwa.' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Pakubvunzwa zvemhosva akadzamwarika'."}
+{"id": 112, "text": "Izwi rekuti 'dzangara dzangara' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Bute rakati dzangara dzangara'."}
+{"id": 113, "text": "Izwi rekuti 'dzengere dzengere' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Dzengeredza (1. Make to circle. 2. Graze I cattle on one spot). Waswerodzengeredza mombe pasina uswa, kusaka dzine nzara.'."}
+{"id": 114, "text": "Izwi rekuti 'dzerere' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudzereredza (Turn round and round quickly) kureva kuzereredza. Kudzerereka(Turn round and round quickly).'."}
+{"id": 115, "text": "Izwi rekuti 'dzemberere kana zemberere' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudzemberera (Hang by one's hands) kureva kuzemberera.'."}
+{"id": 116, "text": "Izwi rekuti 'dzidzimu kana dzidziu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudzidzimuka (Revive from unconsciousness). Kudzidziuka, kudzidzimura, kudzidziutsa kanaakud zidzimutsa.'."}
+{"id": 117, "text": "Izwi rekuti 'dzika' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akati dzika hari yohwahwa'."}
+{"id": 118, "text": "Izwi rekuti 'dzika dzika' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Nhasi kunze kwakati dzika dzika'."}
+{"id": 119, "text": "Izwi rekuti 'dziridzidi' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '(Make slippery underfoot). Kudziridzidika (Be slippery underfoot).'."}
+{"id": 120, "text": "Izwi rekuti 'dzirikiti' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '(Put out, cause not to shine - of light and by other than normal polite method)..'."}
+{"id": 121, "text": "Izwi rekuti 'dzikiti' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akati mumuti kwaku, ndokuti pasi dzikiti. Kudzikitidza (Place heavy present on ground e.g. pot of beer).'."}
+{"id": 122, "text": "Izwi rekuti 'dzindi' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akamuti dzindi achimurevera nhema'."}
+{"id": 123, "text": "Izwi rekuti 'dziva dziva' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akati dziva dziva achitsvaga huni'."}
+{"id": 124, "text": "Izwi rekuti 'dzobo' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 125, "text": "Izwi rekuti 'dzokono' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 126, "text": "Izwi rekuti 'dzomoto' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudzomotoka (Make up a story. Make false statement).'."}
+{"id": 127, "text": "Izwi rekuti 'dzororo kana sipiti' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kudzororodza (Make to stand still - especially person). Kudzororoka kana kusipitika (Stand still).'."}
+{"id": 128, "text": "Izwi rekuti 'dzvemere kana dzvemete' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Imbwa inoti dzvemere natenzi wayo'."}
+{"id": 129, "text": "Izwi rekuti 'fashanu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Mbeva dzakati fashanu kubuda mumwena'."}
+{"id": 130, "text": "Izwi rekuti 'fashata' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 131, "text": "Izwi rekuti 'Fashu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kana mvura yomunhuruka yangoti ti, mbeu dzose dzinoti fashu kumera'."}
+{"id": 132, "text": "Izwi rekuti 'fembu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '(sniffing). Kufembuka kana kufandanuka (Become known - something that was supposed to be kept very secret).. Kufembura (Suspect. Have reason for thinking that) kureva kufungira..'."}
+{"id": 133, "text": "Izwi rekuti 'fema' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '(Cause to remove a layer.Kufemura (Take a layer especially spoonful of sadza). 2. Fatten). Femura hwada iri pamusoro uirase,, leaving the bottom layers that are still warm. Kufemaruka (Become stout]] zvichireva kukobvumara kana kukora.'."}
+{"id": 134, "text": "Izwi rekuti 'fendekete' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '(Sit down regardless of whether polite or convenient.'."}
+{"id": 135, "text": "Izwi rekuti 'fendu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Vanhu vafenduka kunhamo'."}
+{"id": 136, "text": "Izwi rekuti 'fenenga' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '(Hollow out e.g wooden plate). kureva kukokopfora. Kufenengadza (Draw in stomach). Kufenengara (Stand with stornach drawn in). Kufedemara (Sit on a very high place). Kufenga (Become hollow- stomached through hunger. Draw in stomach) kureva kufenengadza. -'."}
+{"id": 137, "text": "Izwi rekuti 'fenenge' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '.-stomached as a cockroach.'."}
+{"id": 138, "text": "Izwi rekuti 'fenenya' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 139, "text": "Izwi rekuti 'fenga' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '(Distend (nostrils). Kufengura (Distend (nostrils).'."}
+{"id": 140, "text": "Izwi rekuti 'Kufenga' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'zvichireva kupanha. Amai vanofenga hari noruunzo kuti iite rnukati'."}
+{"id": 141, "text": "Izwi rekuti 'ferendende' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'over large area (people and animals). Vanhu vakati ferendende muhwahwamombe dzichidya minda'."}
+{"id": 142, "text": "Izwi rekuti 'ferengu kana fombo' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 143, "text": "Izwi rekuti 'ferenu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '(Make to swell or grow fat. 2. Peel soft skin).-peas are made to swell by being soaked. Kuferenuka (Swell all over; Grow stout; 2. Peel of soft skin).. Kuferenura (Peel orange, cooked potato, etc).'."}
+{"id": 144, "text": "Izwi rekuti 'fove' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kufovedza (Dent) kana kufonyedza. Kufoveka kanakufovera (Collapse inwards). Harahwa ine nhama dzakafoveka'."}
+{"id": 145, "text": "Izwi rekuti 'fovi' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 146, "text": "Izwi rekuti 'fovo' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 147, "text": "Izwi rekuti 'fovovo' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kufovova (Shrivel (potato). Dende zhuzhana rikatanhwa rinozoti fovovo'."}
+{"id": 148, "text": "Izwi rekuti 'fovoto' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Fovoto (Soft object e.g. rotting fruit).'."}
+{"id": 149, "text": "Izwi rekuti 'fozo kana pfozo' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kufozedza, kufozora, kufozoka kana kupfozoka (from a height). . Akafozoka mumuti akatyoka gumbo'."}
+{"id": 150, "text": "Izwi rekuti 'fudyu kana dzvondo' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kufudyudza (Make eyes bulge) kureva kuudyura kanakudzvondora. Mapipi anofudyudza maziso'."}
+{"id": 151, "text": "Izwi rekuti 'fufumu kana tuku' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kufufumudza (Make to swell or rise). Mvura yakanaya kumusoro ndiyo yakafufumudza rwizi'."}
+{"id": 152, "text": "Izwi rekuti 'fukata kana fukati' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kufukata (Turn one's back on someone. Murume nomukadzi vakazofukatirana'."}
+{"id": 153, "text": "Izwi rekuti 'fukushu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kufukusudza (Make to retrace steps). Kufukusuka (Return by same way. Retrace one's steps). Kufukushuka rinownikwawo. Imbwa yandakatenga kwaSadza yakafukusuka ndokudzokera kwakare manheru.'."}
+{"id": 154, "text": "Izwi rekuti 'fumu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kufumudza kana kufumura (Shame. Put to shame). Kufumura kana kunyangadza (1. Shame, put to shame -shocking moral sense; 2. Spoil or cause to deteriorate). Kudobodedza miriwo kunoifumura'."}
+{"id": 155, "text": "Izwi rekuti 'fundu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Chitinha icho chakati fundu'."}
+{"id": 156, "text": "Izwi rekuti 'fundu fundu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 157, "text": "Izwi rekuti 'fundumwa' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kufundumwadza (Make to sulk). Kufundumwara (Sulk, pout, be cross) kureva kunyetera kanakufundumwika. Fundumwarwa (Sulky, gloomy person). G[chinja | edit source]'."}
+{"id": 158, "text": "Izwi rekuti 'gon'o' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kugon'odza.'."}
+{"id": 159, "text": "Izwi rekuti 'gon'on'o' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Usagare wakati gon'on'o'."}
+{"id": 160, "text": "Izwi rekuti 'gonyo' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 161, "text": "Izwi rekuti 'goma goma kana kata' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Zvidhinha zvakati goma goma'."}
+{"id": 162, "text": "Izwi rekuti 'gombe kana kombe' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Itai mhuru gombe, mumwe kurudyi mumwe kuruboshwe.'."}
+{"id": 163, "text": "Izwi rekuti 'gori' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 164, "text": "Izwi rekuti 'gumba' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 165, "text": "Izwi rekuti 'gunduma kana ngundu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 166, "text": "Izwi rekuti 'gunduru' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 167, "text": "Izwi rekuti 'Gunduruka' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 168, "text": "Izwi rekuti 'gunduma' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 169, "text": "Izwi rekuti 'gunduma' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 170, "text": "Izwi rekuti 'guwa' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 171, "text": "Izwi rekuti 'gurugundyu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 172, "text": "Izwi rekuti 'guruzuzu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 173, "text": "Izwi rekuti 'gurwi kana tangarwi' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 174, "text": "Izwi rekuti 'gurwada?' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 175, "text": "Izwi rekuti 'gutsu, kumu kana gusu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kukumura kugusuka, kugutsura kana kuguswaira (Nod head in agreement).'."}
+{"id": 176, "text": "Izwi rekuti 'guumu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 177, "text": "Izwi rekuti 'Guumudza' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Guumudza fodya yasara mukasha'."}
+{"id": 178, "text": "Izwi rekuti 'gwachata kana gwachara' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 179, "text": "Izwi rekuti 'gwada' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Zvichida ndipo panobva zita rokuti Magwada?'."}
+{"id": 180, "text": "Izwi rekuti 'gwadara' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 181, "text": "Izwi rekuti 'gwadi kana kwede' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 182, "text": "Izwi rekuti 'gwadu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kugwadudza kanakugwadura.'."}
+{"id": 183, "text": "Izwi rekuti 'Kugwaduka kana kugweduka' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 184, "text": "Izwi rekuti 'gwedegwe kana njenje' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 185, "text": "Izwi rekuti 'gwedere gwedere' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kugwederedza (Make to walk in the way an enfeebled person or animal does).'."}
+{"id": 186, "text": "Izwi rekuti 'gweje' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Handira dzakati gweje'."}
+{"id": 187, "text": "Izwi rekuti 'gwanan'wana kana gwenen'wene' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 188, "text": "Izwi rekuti 'gweredede kana sesepu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Dovi rakanyatsoti gweredede'."}
+{"id": 189, "text": "Izwi rekuti 'gwiri' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'M[chinja | edit source]'."}
+{"id": 190, "text": "Izwi rekuti 'mangu kana pamupamu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kumangudza kana kukabura (Fill to brim). Kumanguka (Get filled full).'."}
+{"id": 191, "text": "Izwi rekuti 'mangu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '(Be, or be able to be, bitten -soft object).Kumangura (Take a large bite of soft object e.g. apple).'."}
+{"id": 192, "text": "Izwi rekuti 'mbu' inyaudzosingwi inoshandiswa kuratidza chiito, kurira, kana manzwiro muChiShona."}
+{"id": 193, "text": "Izwi rekuti 'mbu-u' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Musoro waSekuru vachena kuti mbu-u'."}
+{"id": 194, "text": "Izwi rekuti 'mbu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Nhoro yakati muuswa mbu'."}
+{"id": 195, "text": "Izwi rekuti 'mbumu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Akati utsi mbumu'."}
+{"id": 196, "text": "Izwi rekuti 'mbumuzu' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Kumbumuzura (Strike glancing blow). Gondo rakambumuzura huku'."}
+{"id": 197, "text": "Izwi rekuti 'mburetete kana mbure' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Jenaguru rakati mburetete'."}
+{"id": 198, "text": "Izwi rekuti 'mhanhara' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: '-mhanharidza [L]Z v t Make something unwelcome land nearby.Kumhanharika (Land nearby, after jumping - something unwelcome). T[chinja | edit source]'."}
+{"id": 199, "text": "Izwi rekuti 'tororo' inyaudzosingwi inoshandiswa kuratidza chiito kana mamiriro ezvinhu. Muenzaniso wayo wekushandisa ndeuyu: 'Tande Tsveta Category'."}
+{"id": 200, "text": "Tsumo: Aguta haaoneki. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Aguta haaoneki'."}
+{"id": 201, "text": "Tsumo: Aiva madziva ave mazambuko. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Aiva madziva ave mazambuko'."}
+{"id": 202, "text": "Tsumo: Akuruma nzeve ndewako. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Akuruma nzeve ndewako'."}
+{"id": 203, "text": "Tsumo: Akwewa sanzu akwewa namashizha aro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Akwewa sanzu akwewa namashizha aro'."}
+{"id": 204, "text": "Tsumo: Ane marengenya haacharike moto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ane marengenya haacharike moto'."}
+{"id": 205, "text": "Tsumo: Ane mhuri kwayo ndeane ndume ane mhurikadzi vaeni. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ane mhuri kwayo ndeane ndume ane mhurikadzi vaeni'."}
+{"id": 206, "text": "Tsumo: Anokutukira badza unokupa upfumi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Anokutukira badza unokupa upfumi'."}
+{"id": 207, "text": "Tsumo: Ashamba haanokorerwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ashamba haanokorerwi'."}
+{"id": 208, "text": "Tsumo: Ateya mariva murutsva haachatyi kusviba magaro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ateya mariva murutsva haachatyi kusviba magaro'."}
+{"id": 209, "text": "Tsumo: Avengwa anhuhwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Avengwa anhuhwa'."}
+{"id": 210, "text": "Tsumo: Benzi rikasaimba manjemanje richamhanya bani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Benzi rikasaimba manjemanje richamhanya bani'."}
+{"id": 211, "text": "Tsumo: Chada mwoyo hachikoni, mwoyo chiremba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chada mwoyo hachikoni, mwoyo chiremba'."}
+{"id": 212, "text": "Tsumo: Chafamba chasvava. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chafamba chasvava'."}
+{"id": 213, "text": "Tsumo: Chaikanya chototsa, chaitotsa chokanyawo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chaikanya chototsa, chaitotsa chokanyawo'."}
+{"id": 214, "text": "Tsumo: Chaitemura chava kuseva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chaitemura chava kuseva'."}
+{"id": 215, "text": "Tsumo: Chakabaya chikachokera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakabaya chikachokera'."}
+{"id": 216, "text": "Tsumo: Chakaenzanwa ibvudzi upfumi hahuna kuenzanwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakaenzanwa ibvudzi upfumi hahuna kuenzanwa'."}
+{"id": 217, "text": "Tsumo: Chakafukidza dzimba matenga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakafukidza dzimba matenga'."}
+{"id": 218, "text": "Tsumo: Chakanaka chakanaka mukaka haurungwi (munyu). Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakanaka chakanaka mukaka haurungwi (munyu)'."}
+{"id": 219, "text": "Tsumo: Chakatairi pasi ndechevanhu vose asi chiri mumuti ndechowagona kukwira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakatairi pasi ndechevanhu vose asi chiri mumuti ndechowagona kukwira'."}
+{"id": 220, "text": "Tsumo: Chakatanga ndochakachenjedza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakatanga ndochakachenjedza'."}
+{"id": 221, "text": "Tsumo: Chako ndechako kuseva unosiya muto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chako ndechako kuseva unosiya muto'."}
+{"id": 222, "text": "Tsumo: Charovedzera charovedzera gudo rakakwira mawere kwasviba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Charovedzera charovedzera gudo rakakwira mawere kwasviba'."}
+{"id": 223, "text": "Tsumo: Chati homu chareva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chati homu chareva'."}
+{"id": 224, "text": "Tsumo: Chauya masikati charamba ndima chauya usiku charamba hope. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chauya masikati charamba ndima chauya usiku charamba hope'."}
+{"id": 225, "text": "Tsumo: Chava chigondora chava chimombe kutadza kutunga hurema hwacho. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chava chigondora chava chimombe kutadza kutunga hurema hwacho'."}
+{"id": 226, "text": "Tsumo: Chawawana idya nehama mutorwa ane hanganwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chawawana idya nehama mutorwa ane hanganwa'."}
+{"id": 227, "text": "Tsumo: Chawira pasi mudzimu wembwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chawira pasi mudzimu wembwa'."}
+{"id": 228, "text": "Tsumo: Chekuba hachigari. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chekuba hachigari'."}
+{"id": 229, "text": "Tsumo: Chembere masikati usiku imvana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chembere masikati usiku imvana'."}
+{"id": 230, "text": "Tsumo: Chembere mukadzi hazvienzani nekurara mugota. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chembere mukadzi hazvienzani nekurara mugota'."}
+{"id": 231, "text": "Tsumo: Chembere ndeyembwa yomurume ndibaba wavanhu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chembere ndeyembwa yomurume ndibaba wavanhu'."}
+{"id": 232, "text": "Tsumo: Chibwe chiremera chavari kure vari pedyo vanotamba nacho. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chibwe chiremera chavari kure vari pedyo vanotamba nacho'."}
+{"id": 233, "text": "Tsumo: Chidamoyo hamba yakada makwati. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chidamoyo hamba yakada makwati'."}
+{"id": 234, "text": "Tsumo: Chidhiidhii kutsvara hundi moyo uri kumakoto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chidhiidhii kutsvara hundi moyo uri kumakoto'."}
+{"id": 235, "text": "Tsumo: Chigare chenda kudya akaitakura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chigare chenda kudya akaitakura'."}
+{"id": 236, "text": "Tsumo: Chigere ibwe muti unowa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chigere ibwe muti unowa'."}
+{"id": 237, "text": "Tsumo: Chikomo shata divi rimwe ritambire pwere. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chikomo shata divi rimwe ritambire pwere'."}
+{"id": 238, "text": "Tsumo: Chirere mangwana chigozokurerawo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chirere mangwana chigozokurerawo'."}
+{"id": 239, "text": "Tsumo: Chiri pamuchena chiri pamutenure. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chiri pamuchena chiri pamutenure'."}
+{"id": 240, "text": "Tsumo: Chiripo chiripo ndarira imwe hairiri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chiripo chiripo ndarira imwe hairiri'."}
+{"id": 241, "text": "Tsumo: Chitaurirwa mbare dzekumusana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chitaurirwa mbare dzekumusana'."}
+{"id": 242, "text": "Tsumo: Chitsva chiri murutsoka. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chitsva chiri murutsoka'."}
+{"id": 243, "text": "Tsumo: Chitsva chitsva munamba wejenachena. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chitsva chitsva munamba wejenachena'."}
+{"id": 244, "text": "Tsumo: Chivendekete anoseka chimedure. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chivendekete anoseka chimedure'."}
+{"id": 245, "text": "Tsumo: Chomukuru anopa omene. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chomukuru anopa omene'."}
+{"id": 246, "text": "Tsumo: Chomukuru hachikumbirwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chomukuru hachikumbirwi'."}
+{"id": 247, "text": "Tsumo: Dzakatamba nepwete dzikareswa kudzorerwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Dzakatamba nepwete dzikareswa kudzorerwa'."}
+{"id": 248, "text": "Tsumo: Gombarume kudze soro kukudza dumbu wonge wave chana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gombarume kudze soro kukudza dumbu wonge wave chana'."}
+{"id": 249, "text": "Tsumo: Gona ana gona vakewo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gona ana gona vakewo'."}
+{"id": 250, "text": "Tsumo: Gona rehupfumi iziya. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gona rehupfumi iziya'."}
+{"id": 251, "text": "Tsumo: Gondo kuengerera raona zumbu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gondo kuengerera raona zumbu'."}
+{"id": 252, "text": "Tsumo: Gore haribvi pakabva rimwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gore haribvi pakabva rimwe'."}
+{"id": 253, "text": "Tsumo: Gunguo rakaramba kumirira museve rikapona nehwakumukwaku. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gunguo rakaramba kumirira museve rikapona nehwakumukwaku'."}
+{"id": 254, "text": "Tsumo: Hanya nani chidoma chekwaChivi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Hanya nani chidoma chekwaChivi'."}
+{"id": 255, "text": "Tsumo: Hapana chembwa tenzi vararira mutakura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Hapana chembwa tenzi vararira mutakura'."}
+{"id": 256, "text": "Tsumo: Hwahwa hahuna mbuva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Hwahwa hahuna mbuva'."}
+{"id": 257, "text": "Tsumo: Ibangano muchateya kuzondoona kwava kwomumwe chete. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ibangano muchateya kuzondoona kwava kwomumwe chete'."}
+{"id": 258, "text": "Tsumo: Idambudziko rehope kurota kwawakarambwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Idambudziko rehope kurota kwawakarambwa'."}
+{"id": 259, "text": "Tsumo: Igangaidza mukwenyi mhezi kuvavira mumoyo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Igangaidza mukwenyi mhezi kuvavira mumoyo'."}
+{"id": 260, "text": "Tsumo: Ikamwe pagore hembe yenherera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ikamwe pagore hembe yenherera'."}
+{"id": 261, "text": "Tsumo: Imbwa nyoro ndidzo tsengi dzematowo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Imbwa nyoro ndidzo tsengi dzematowo'."}
+{"id": 262, "text": "Tsumo: Imbwa payadyira haipakanganwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Imbwa payadyira haipakanganwi'."}
+{"id": 263, "text": "Tsumo: Kakara kununa hudya kamwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kakara kununa hudya kamwe'."}
+{"id": 264, "text": "Tsumo: Kana wadya imbwa idya iri hono. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kana wadya imbwa idya iri hono'."}
+{"id": 265, "text": "Tsumo: Kubaya tange hama vatorwa vakutye. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kubaya tange hama vatorwa vakutye'."}
+{"id": 266, "text": "Tsumo: Kuchengeta imbwa yomweni kuda mwene wayo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuchengeta imbwa yomweni kuda mwene wayo'."}
+{"id": 267, "text": "Tsumo: Kuchenjedza nyamukuta kuzvara uchada. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuchenjedza nyamukuta kuzvara uchada'."}
+{"id": 268, "text": "Tsumo: Kuda chemungozva kubata mwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuda chemungozva kubata mwana'."}
+{"id": 269, "text": "Tsumo: Kudada kwavari mugomo kukumbira vari pasi mapfiwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kudada kwavari mugomo kukumbira vari pasi mapfiwa'."}
+{"id": 270, "text": "Tsumo: Kudya chevapfupi nekureba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kudya chevapfupi nekureba'."}
+{"id": 271, "text": "Tsumo: Kudyirwa munda nembwa sendakarima nyama. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kudyirwa munda nembwa sendakarima nyama'."}
+{"id": 272, "text": "Tsumo: Kufa izuva rimwe, kuora igore. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kufa izuva rimwe, kuora igore'."}
+{"id": 273, "text": "Tsumo: Kufa kweane hari anosiya mazonde. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kufa kweane hari anosiya mazonde'."}
+{"id": 274, "text": "Tsumo: Kufira mafufu segonzo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kufira mafufu segonzo'."}
+{"id": 275, "text": "Tsumo: Kugara nhaka kuona dzevamwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kugara nhaka kuona dzevamwe'."}
+{"id": 276, "text": "Tsumo: Kugarika tange nhamo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kugarika tange nhamo'."}
+{"id": 277, "text": "Tsumo: Kugocha kunoda kwaamai kwomwana kunodzima moto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kugocha kunoda kwaamai kwomwana kunodzima moto'."}
+{"id": 278, "text": "Tsumo: Kugutswa nguva shoma senzara. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kugutswa nguva shoma senzara'."}
+{"id": 279, "text": "Tsumo: Kukokwa kwasamusha kukokwa kwavagere naye. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kukokwa kwasamusha kukokwa kwavagere naye'."}
+{"id": 280, "text": "Tsumo: Kukonwa kwedare kukonwa kwamambo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kukonwa kwedare kukonwa kwamambo'."}
+{"id": 281, "text": "Tsumo: Kukurukura hunge vapotsva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kukurukura hunge vapotsva'."}
+{"id": 282, "text": "Tsumo: Kungotya nyanga dzezizi nyamba manhenga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kungotya nyanga dzezizi nyamba manhenga'."}
+{"id": 283, "text": "Tsumo: Kunokanganwa mudyi wenyemba muoreri wamateko haakanganwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kunokanganwa mudyi wenyemba muoreri wamateko haakanganwi'."}
+{"id": 284, "text": "Tsumo: Kupa kuturika. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kupa kuturika'."}
+{"id": 285, "text": "Tsumo: Kupedza nyota kuenda padziva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kupedza nyota kuenda padziva'."}
+{"id": 286, "text": "Tsumo: Kupfuma kwemuchana mudzimu wake. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kupfuma kwemuchana mudzimu wake'."}
+{"id": 287, "text": "Tsumo: Kuramba dzvuku kuona jena. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuramba dzvuku kuona jena'."}
+{"id": 288, "text": "Tsumo: Kuramba nyama yechidembo hunge une yetsuro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuramba nyama yechidembo hunge une yetsuro'."}
+{"id": 289, "text": "Tsumo: Kurayira kunoda pwere mukuru ndimambo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kurayira kunoda pwere mukuru ndimambo'."}
+{"id": 290, "text": "Tsumo: Kurumwa nechekuchera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kurumwa nechekuchera'."}
+{"id": 291, "text": "Tsumo: Kusaziva kufa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kusaziva kufa'."}
+{"id": 292, "text": "Tsumo: Kuvhunduka chati kwata hunge une katurike. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuvhunduka chati kwata hunge une katurike'."}
+{"id": 293, "text": "Tsumo: Kuyewedza semhiripiri mukati izere uturu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuyewedza semhiripiri mukati izere uturu'."}
+{"id": 294, "text": "Tsumo: Kuziva mbuya huudzwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuziva mbuya huudzwa'."}
+{"id": 295, "text": "Tsumo: Made echakata kutsvukira mumuti kuti ndiposherwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Made echakata kutsvukira mumuti kuti ndiposherwe'."}
+{"id": 296, "text": "Tsumo: Makunguo zvaakatya akafa mangani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Makunguo zvaakatya akafa mangani'."}
+{"id": 297, "text": "Tsumo: Makunun’unu maodza nyemba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Makunun’unu maodza nyemba'."}
+{"id": 298, "text": "Tsumo: Manenji kuona kamba ichitamba nembudzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Manenji kuona kamba ichitamba nembudzi'."}
+{"id": 299, "text": "Tsumo: Matakadya kare haanyaradzi mwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Matakadya kare haanyaradzi mwana'."}
+{"id": 300, "text": "Tsumo: Matende mashava anovazva doro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Matende mashava anovazva doro'."}
+{"id": 301, "text": "Tsumo: Matukirwo ababa kunema mwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Matukirwo ababa kunema mwana'."}
+{"id": 302, "text": "Tsumo: Matsotsi haagerani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Matsotsi haagerani'."}
+{"id": 303, "text": "Tsumo: Mazvokuda kufa namaronda enyora. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mazvokuda kufa namaronda enyora'."}
+{"id": 304, "text": "Tsumo: Mhembwe rudzi kuzvara mwana ane kazhumu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mhembwe rudzi kuzvara mwana ane kazhumu'."}
+{"id": 305, "text": "Tsumo: Mhosva haiori. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mhosva haiori'."}
+{"id": 306, "text": "Tsumo: Mombe yenjeni kutokama wakasungira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mombe yenjeni kutokama wakasungira'."}
+{"id": 307, "text": "Tsumo: Moyo muti unomera paunoda. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Moyo muti unomera paunoda'."}
+{"id": 308, "text": "Tsumo: Mudzimu vakupa chironda vati nhunzi dzikudye. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mudzimu vakupa chironda vati nhunzi dzikudye'."}
+{"id": 309, "text": "Tsumo: Muenzi haapedzi dura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muenzi haapedzi dura'."}
+{"id": 310, "text": "Tsumo: Mukwasha mukuyu haapere kudyiwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mukwasha mukuyu haapere kudyiwa'."}
+{"id": 311, "text": "Tsumo: Munhu akanaka haararame. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Munhu akanaka haararame'."}
+{"id": 312, "text": "Tsumo: Munhu haarerwi nebonde. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Munhu haarerwi nebonde'."}
+{"id": 313, "text": "Tsumo: Munhu akatsiga anozviganhura pakunwa hwahwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Munhu akatsiga anozviganhura pakunwa hwahwa'."}
+{"id": 314, "text": "Tsumo: Munyai mutumwa, muridzi wesoko ndiwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Munyai mutumwa, muridzi wesoko ndiwe'."}
+{"id": 315, "text": "Tsumo: Muonerapamwe chuma yemuzukuru. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muonerapamwe chuma yemuzukuru'."}
+{"id": 316, "text": "Tsumo: Muramba kukombwa muramba hweni. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muramba kukombwa muramba hweni'."}
+{"id": 317, "text": "Tsumo: Murombo munhu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Murombo munhu'."}
+{"id": 318, "text": "Tsumo: Muromo chipfukuto unopedza matura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muromo chipfukuto unopedza matura'."}
+{"id": 319, "text": "Tsumo: Muroyi munhu kubayiwa anochemawo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muroyi munhu kubayiwa anochemawo'."}
+{"id": 320, "text": "Tsumo: Muroyi royera kure ugowana anokuviga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muroyi royera kure ugowana anokuviga'."}
+{"id": 321, "text": "Tsumo: Musha mukadzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Musha mukadzi'."}
+{"id": 322, "text": "Tsumo: Muto wetsenza ndiwo mumwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muto wetsenza ndiwo mumwe'."}
+{"id": 323, "text": "Tsumo: Muzivi wenzira yeparuware ndiye mufambi wayo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muzivi wenzira yeparuware ndiye mufambi wayo'."}
+{"id": 324, "text": "Tsumo: Mviromviro yemhanza mapfeka. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mviromviro yemhanza mapfeka'."}
+{"id": 325, "text": "Tsumo: Mwana muduku kubvuma rwendo rwake ruri mberi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mwana muduku kubvuma rwendo rwake ruri mberi'."}
+{"id": 326, "text": "Tsumo: Mwana wengwe mwana wengwe kuona chikara haatizi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mwana wengwe mwana wengwe kuona chikara haatizi'."}
+{"id": 327, "text": "Tsumo: Mwoyochena weyi bere kugarira munhu akafa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mwoyochena weyi bere kugarira munhu akafa'."}
+{"id": 328, "text": "Tsumo: Ndakazvida haichemedzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ndakazvida haichemedzi'."}
+{"id": 329, "text": "Tsumo: Nerimwe zuva gava richadimbura musungo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nerimwe zuva gava richadimbura musungo'."}
+{"id": 330, "text": "Tsumo: Nhamo yomumwe hairambirwi sadza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nhamo yomumwe hairambirwi sadza'."}
+{"id": 331, "text": "Tsumo: Nhonhongora kudya chayo kukumbirirei uchi kudondi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nhonhongora kudya chayo kukumbirirei uchi kudondi'."}
+{"id": 332, "text": "Tsumo: Njera yomusaririra ndiyo yeshiri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Njera yomusaririra ndiyo yeshiri'."}
+{"id": 333, "text": "Tsumo: Nzanga seka dumba, dumba seka nzanga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nzanga seka dumba, dumba seka nzanga'."}
+{"id": 334, "text": "Tsumo: Nzira masanga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nzira masanga'."}
+{"id": 335, "text": "Tsumo: Nzombe huru yakabva mukurerwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nzombe huru yakabva mukurerwa'."}
+{"id": 336, "text": "Tsumo: Nzou hairemerwi nenyanga dzayo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nzou hairemerwi nenyanga dzayo'."}
+{"id": 337, "text": "Tsumo: Nzou mutupo pana vanhu paseri ava machikichori. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nzou mutupo pana vanhu paseri ava machikichori'."}
+{"id": 338, "text": "Tsumo: Onde kutsvuka kunze mukati rizere masvosve. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Onde kutsvuka kunze mukati rizere masvosve'."}
+{"id": 339, "text": "Tsumo: Pachapwa madziva miramba tichanyurura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pachapwa madziva miramba tichanyurura'."}
+{"id": 340, "text": "Tsumo: Pagara murimi pagara mupopoti. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pagara murimi pagara mupopoti'."}
+{"id": 341, "text": "Tsumo: Pakukutu hapaurayi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pakukutu hapaurayi'."}
+{"id": 342, "text": "Tsumo: Pane danga pane mombe pane hundi pagara hurudza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pane danga pane mombe pane hundi pagara hurudza'."}
+{"id": 343, "text": "Tsumo: Panomera muswe panonyeredza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Panomera muswe panonyeredza'."}
+{"id": 344, "text": "Tsumo: Potsi haarwirwi anorwirwa ndiPiri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Potsi haarwirwi anorwirwa ndiPiri'."}
+{"id": 345, "text": "Tsumo: Rambakuudzwa akaonekwa nembonje pahuma. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rambakuudzwa akaonekwa nembonje pahuma'."}
+{"id": 346, "text": "Tsumo: Raramo idivakamwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Raramo idivakamwe'."}
+{"id": 347, "text": "Tsumo: Rega kuyera nyoka negavi iyo iripo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rega kuyera nyoka negavi iyo iripo'."}
+{"id": 348, "text": "Tsumo: Regai dzive huku mazai haana muto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Regai dzive huku mazai haana muto'."}
+{"id": 349, "text": "Tsumo: Rombe ngerichaenda rodzoka ndimambo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rombe ngerichaenda rodzoka ndimambo'."}
+{"id": 350, "text": "Tsumo: Rombe pakata hana mukaka ndowavaridzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rombe pakata hana mukaka ndowavaridzi'."}
+{"id": 351, "text": "Tsumo: Roro kutsvuka kunze mukati rizere masvosve. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Roro kutsvuka kunze mukati rizere masvosve'."}
+{"id": 352, "text": "Tsumo: Rwizi rukuru madirano. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rwizi rukuru madirano'."}
+{"id": 353, "text": "Tsumo: Shungu dzembwa dziri mumwoyo kuhukura ndiko kududza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Shungu dzembwa dziri mumwoyo kuhukura ndiko kududza'."}
+{"id": 354, "text": "Tsumo: Soko harivhikwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Soko harivhikwi'."}
+{"id": 355, "text": "Tsumo: Takabva neko kumhunga hakuna’pwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Takabva neko kumhunga hakuna’pwa'."}
+{"id": 356, "text": "Tsumo: Tambe tambe vanoda varivo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tambe tambe vanoda varivo'."}
+{"id": 357, "text": "Tsumo: Taramuka panotamba dera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Taramuka panotamba dera'."}
+{"id": 358, "text": "Tsumo: Tenda wakohwa zvemunda wezunde. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tenda wakohwa zvemunda wezunde'."}
+{"id": 359, "text": "Tsumo: Tichaona kunowira tswimbo nedohwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tichaona kunowira tswimbo nedohwe'."}
+{"id": 360, "text": "Tsumo: Totenda dzanwa mombe dzaswera nebenzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Totenda dzanwa mombe dzaswera nebenzi'."}
+{"id": 361, "text": "Tsumo: Totenda maruva tadya chakata. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Totenda maruva tadya chakata'."}
+{"id": 362, "text": "Tsumo: Totenda nyemba tanwira mvura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Totenda nyemba tanwira mvura'."}
+{"id": 363, "text": "Tsumo: Totenda yabikwa imba yepwere. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Totenda yabikwa imba yepwere'."}
+{"id": 364, "text": "Tsumo: Totenda yavira tsambakodzi yedemhe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Totenda yavira tsambakodzi yedemhe'."}
+{"id": 365, "text": "Tsumo: Tsapata rukukwe hazvienzani nokurara pasi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsapata rukukwe hazvienzani nokurara pasi'."}
+{"id": 366, "text": "Tsumo: Tsenzi igara yadyiwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsenzi igara yadyiwa'."}
+{"id": 367, "text": "Tsumo: Tsiru nzenzi manhenda waikama. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsiru nzenzi manhenda waikama'."}
+{"id": 368, "text": "Tsumo: Tsuro haipunyuki rutsva kaviri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsuro haipunyuki rutsva kaviri'."}
+{"id": 369, "text": "Tsumo: Tsuro kotsa muromo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsuro kotsa muromo'."}
+{"id": 370, "text": "Tsumo: Tsvaru akadana tivu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsvaru akadana tivu'."}
+{"id": 371, "text": "Tsumo: Twemudenhe tune ushorwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Twemudenhe tune ushorwi'."}
+{"id": 372, "text": "Tsumo: Ugaro mwena kutevedza hunoguma. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ugaro mwena kutevedza hunoguma'."}
+{"id": 373, "text": "Tsumo: Ukama hahusukwi nemvura hukabva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ukama hahusukwi nemvura hukabva'."}
+{"id": 374, "text": "Tsumo: Ukama hunonhuhwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ukama hunonhuhwa'."}
+{"id": 375, "text": "Tsumo: Ukama urimbo kudambura haubvi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ukama urimbo kudambura haubvi'."}
+{"id": 376, "text": "Tsumo: Ukuru hurema hahuvanzwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ukuru hurema hahuvanzwi'."}
+{"id": 377, "text": "Tsumo: Umambo hutambidzwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Umambo hutambidzwana'."}
+{"id": 378, "text": "Tsumo: Unaki hwemukadzi huri pamwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Unaki hwemukadzi huri pamwana'."}
+{"id": 379, "text": "Tsumo: Upenyu hwenungo irima. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Upenyu hwenungo irima'."}
+{"id": 380, "text": "Tsumo: Upfumi idova hautani kupera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Upfumi idova hautani kupera'."}
+{"id": 381, "text": "Tsumo: Ura mapako hunozvara mbava nemuroyi,. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ura mapako hunozvara mbava nemuroyi,'."}
+{"id": 382, "text": "Tsumo: Urombo hune nherera kudya ikarutsa,. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Urombo hune nherera kudya ikarutsa,'."}
+{"id": 383, "text": "Tsumo: Urombo hwayo mhembwe kufa iri pamusungo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Urombo hwayo mhembwe kufa iri pamusungo'."}
+{"id": 384, "text": "Tsumo: Urombo hwenherera kupakwa ichirutsa,. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Urombo hwenherera kupakwa ichirutsa,'."}
+{"id": 385, "text": "Tsumo: Urombo uroyi hauudzwi munhu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Urombo uroyi hauudzwi munhu'."}
+{"id": 386, "text": "Tsumo: Urombo hwematede kunaiwa nemvura makurwe ari mumhatso. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Urombo hwematede kunaiwa nemvura makurwe ari mumhatso'."}
+{"id": 387, "text": "Tsumo: Usachenjedza n’anga kurapwa uchada. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usachenjedza n’anga kurapwa uchada'."}
+{"id": 388, "text": "Tsumo: Usaguta ukasunda dura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usaguta ukasunda dura'."}
+{"id": 389, "text": "Tsumo: Usakangira nyimo vane meno avo havo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usakangira nyimo vane meno avo havo'."}
+{"id": 390, "text": "Tsumo: Usakurumidza kumedza kutsenga uchada. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usakurumidza kumedza kutsenga uchada'."}
+{"id": 391, "text": "Tsumo: Usakusha mbeu mvura yaenda. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usakusha mbeu mvura yaenda'."}
+{"id": 392, "text": "Tsumo: Usaona imbwa kunyenama ukati unokusekerera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usaona imbwa kunyenama ukati unokusekerera'."}
+{"id": 393, "text": "Tsumo: Usapedzera tsvimbo kuna vanamakuwe idzo hanga dzichauya. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usapedzera tsvimbo kuna vanamakuwe idzo hanga dzichauya'."}
+{"id": 394, "text": "Tsumo: Usaruka nhava sora ratsva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usaruka nhava sora ratsva'."}
+{"id": 395, "text": "Tsumo: Usatsvaga nhava muuswa iro sora ratsva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usatsvaga nhava muuswa iro sora ratsva'."}
+{"id": 396, "text": "Tsumo: Usaverenga mbeva nemudune. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usaverenga mbeva nemudune'."}
+{"id": 397, "text": "Tsumo: Ushe hauzvitongi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe hauzvitongi'."}
+{"id": 398, "text": "Tsumo: Ushe hukokwa, hunotokokwa kune vamwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe hukokwa, hunotokokwa kune vamwe'."}
+{"id": 399, "text": "Tsumo: Ushe hunonyanga dera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe hunonyanga dera'."}
+{"id": 400, "text": "Tsumo: Ushe hunonyangira rema. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe hunonyangira rema'."}
+{"id": 401, "text": "Tsumo: Ushe husiirwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe husiirwana'."}
+{"id": 402, "text": "Tsumo: Ushe idova hunoparara. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe idova hunoparara'."}
+{"id": 403, "text": "Tsumo: Ushe imhute hunoparara zuva rabuda. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe imhute hunoparara zuva rabuda'."}
+{"id": 404, "text": "Tsumo: Ushe madzoro hunoravanwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe madzoro hunoravanwa'."}
+{"id": 405, "text": "Tsumo: Ushe muzhanje unokuva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe muzhanje unokuva'."}
+{"id": 406, "text": "Tsumo: Usiku humwe hauodzi nyemba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usiku humwe hauodzi nyemba'."}
+{"id": 407, "text": "Tsumo: Usiku igore. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usiku igore'."}
+{"id": 408, "text": "Tsumo: Utsi hwenyama hautosvori. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Utsi hwenyama hautosvori'."}
+{"id": 409, "text": "Tsumo: Utsva hworurimi hahuna marapiro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Utsva hworurimi hahuna marapiro'."}
+{"id": 410, "text": "Tsumo: Uzivi wenzira huri mugumbo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Uzivi wenzira huri mugumbo'."}
+{"id": 411, "text": "Tsumo: Vadani ndivo vakani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vadani ndivo vakani'."}
+{"id": 412, "text": "Tsumo: Vakachenjera havatsvairani mbeva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vakachenjera havatsvairani mbeva'."}
+{"id": 413, "text": "Tsumo: Vakafa havana chavakaona. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vakafa havana chavakaona'."}
+{"id": 414, "text": "Tsumo: Vakafa vakazorora. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vakafa vakazorora'."}
+{"id": 415, "text": "Tsumo: Vakakavira mhepo vachacheka chamupupuri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vakakavira mhepo vachacheka chamupupuri'."}
+{"id": 416, "text": "Tsumo: Vana wengwena havakuriri mudziva rimwe chete. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vana wengwena havakuriri mudziva rimwe chete'."}
+{"id": 417, "text": "Tsumo: Vari pachavo chikurikuri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vari pachavo chikurikuri'."}
+{"id": 418, "text": "Tsumo: Vari pachavo vanokwenyana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vari pachavo vanokwenyana'."}
+{"id": 419, "text": "Tsumo: Varume ndivo vamwe kutsva kwendebvu vanodzimurana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Varume ndivo vamwe kutsva kwendebvu vanodzimurana'."}
+{"id": 420, "text": "Tsumo: Vayanani ndivo varwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vayanani ndivo varwi'."}
+{"id": 421, "text": "Tsumo: Wabereka sekera muchitende. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wabereka sekera muchitende'."}
+{"id": 422, "text": "Tsumo: Wadzvova aguta. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wadzvova aguta'."}
+{"id": 423, "text": "Tsumo: Wafa wanaka. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wafa wanaka'."}
+{"id": 424, "text": "Tsumo: Waita mbereko ada kusuka machira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Waita mbereko ada kusuka machira'."}
+{"id": 425, "text": "Tsumo: Waita womutorwa kuti kumwe kwakaoma kumwe kunyoro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Waita womutorwa kuti kumwe kwakaoma kumwe kunyoro'."}
+{"id": 426, "text": "Tsumo: Wakagarika ngewakafa mupenyu pfumo riri mushure. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wakagarika ngewakafa mupenyu pfumo riri mushure'."}
+{"id": 427, "text": "Tsumo: Waniwa haichatyi kufamba mudova. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Waniwa haichatyi kufamba mudova'."}
+{"id": 428, "text": "Tsumo: Wanzi baba wada kamusha kake. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wanzi baba wada kamusha kake'."}
+{"id": 429, "text": "Tsumo: Warara warara nemuromo wake. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Warara warara nemuromo wake'."}
+{"id": 430, "text": "Tsumo: Watungamira haatori nzira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Watungamira haatori nzira'."}
+{"id": 431, "text": "Tsumo: Wazarira bako mvura ichada kunaya. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wazarira bako mvura ichada kunaya'."}
+{"id": 432, "text": "Tsumo: Wenhamo haachatyi kufamba murima. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wenhamo haachatyi kufamba murima'."}
+{"id": 433, "text": "Tsumo: Wenhamo haaneti. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wenhamo haaneti'."}
+{"id": 434, "text": "Tsumo: Yatsika yanwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Yatsika yanwa'."}
+{"id": 435, "text": "Tsumo: Zano marairanwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zano marairanwa'."}
+{"id": 436, "text": "Tsumo: Zano pangwa une rako. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zano pangwa une rako'."}
+{"id": 437, "text": "Tsumo: Zvakona n’anga murapwa achida. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zvakona n’anga murapwa achida'."}
+{"id": 438, "text": "Tsumo: Zipfuko rambuya ziramba watonha. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zipfuko rambuya ziramba watonha'."}
+{"id": 439, "text": "Tsumo: Ziriwo rechembere ziramba waravira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ziriwo rechembere ziramba waravira'."}
+{"id": 440, "text": "Tsumo: Zizi kurungwa munyu roti ndava hukuwo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zizi kurungwa munyu roti ndava hukuwo'."}
+{"id": 441, "text": "Tsumo: Zundu kugara mudanga zvanzi ndava mombe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zundu kugara mudanga zvanzi ndava mombe'."}
+{"id": 442, "text": "Tsumo: Zviri kumwene wegira kufuka kana kuwarira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zviri kumwene wegira kufuka kana kuwarira'."}
+{"id": 443, "text": "Tsumo: Zviroto zviroto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zviroto zviroto'."}
+{"id": 444, "text": "Tsumo: Zviuya hazvivanani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zviuya hazvivanani'."}
+{"id": 445, "text": "Tsumo: Zviuya zviri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zviuya zviri'."}
+{"id": 446, "text": "Tsumo: Abereka otochena moyo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Abereka otochena moyo'."}
+{"id": 447, "text": "Tsumo: Afamba apota. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Afamba apota'."}
+{"id": 448, "text": "Tsumo: Aguta haaoneki. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Aguta haaoneki'."}
+{"id": 449, "text": "Tsumo: Aita chake ndihombarume. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Aita chake ndihombarume'."}
+{"id": 450, "text": "Tsumo: Aiva madziva ave mazambuko. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Aiva madziva ave mazambuko'."}
+{"id": 451, "text": "Tsumo: Akanga nyimo awangarara. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Akanga nyimo awangarara'."}
+{"id": 452, "text": "Tsumo: Akoromoka awa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Akoromoka awa'."}
+{"id": 453, "text": "Tsumo: Akuti rima ati ugute. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Akuti rima ati ugute'."}
+{"id": 454, "text": "Tsumo: Akuruma nzeve ndewako. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Akuruma nzeve ndewako'."}
+{"id": 455, "text": "Tsumo: Akwewa sanzu akwewa namashizha aro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Akwewa sanzu akwewa namashizha aro'."}
+{"id": 456, "text": "Tsumo: Ane bedzi ndeane rake kudzana anopururudza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ane bedzi ndeane rake kudzana anopururudza'."}
+{"id": 457, "text": "Tsumo: Ane marengenya haacharike moto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ane marengenya haacharike moto'."}
+{"id": 458, "text": "Tsumo: Ane mhuri kwayo ndeane ndume ane mhurikadzi vaeni. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ane mhuri kwayo ndeane ndume ane mhurikadzi vaeni'."}
+{"id": 459, "text": "Tsumo: Ane mombe yake anoziva makumire ayo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ane mombe yake anoziva makumire ayo'."}
+{"id": 460, "text": "Tsumo: Anokutukira badza unokupa upfumi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Anokutukira badza unokupa upfumi'."}
+{"id": 461, "text": "Tsumo: Ashamba haanokorerwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ashamba haanokorerwi'."}
+{"id": 462, "text": "Tsumo: Ateya mariva murutsva haachatyi kusviba magaro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ateya mariva murutsva haachatyi kusviba magaro'."}
+{"id": 463, "text": "Tsumo: Avengwa anhuhwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Avengwa anhuhwa'."}
+{"id": 464, "text": "Tsumo: Baba muredzi mwana kuchema anodaidza mai. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Baba muredzi mwana kuchema anodaidza mai'."}
+{"id": 465, "text": "Tsumo: Basa mangwanani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Basa mangwanani'."}
+{"id": 466, "text": "Tsumo: Benzi bvunza rakanaka. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Benzi bvunza rakanaka'."}
+{"id": 467, "text": "Tsumo: Benzi rikasaimba manjemanje richamhanya bani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Benzi rikasaimba manjemanje richamhanya bani'."}
+{"id": 468, "text": "Tsumo: Bere zvarakatya mapapata aro mangani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Bere zvarakatya mapapata aro mangani'."}
+{"id": 469, "text": "Tsumo: Bhuru rasarira shure rasarira shamhu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Bhuru rasarira shure rasarira shamhu'."}
+{"id": 470, "text": "Tsumo: Chada mwoyo hachikoni, mwoyo chiremba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chada mwoyo hachikoni, mwoyo chiremba'."}
+{"id": 471, "text": "Tsumo: Chafamba chasvava. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chafamba chasvava'."}
+{"id": 472, "text": "Tsumo: Chafamba kamwe hachiteivi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chafamba kamwe hachiteivi'."}
+{"id": 473, "text": "Tsumo: Chaikanya chototsa, chaitotsa chokanyawo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chaikanya chototsa, chaitotsa chokanyawo'."}
+{"id": 474, "text": "Tsumo: Chaitemura chava kuseva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chaitemura chava kuseva'."}
+{"id": 475, "text": "Tsumo: Chakabaya chikachokera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakabaya chikachokera'."}
+{"id": 476, "text": "Tsumo: Chakaenzanwa ibvudzi upfumi hahuna kuenzanwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakaenzanwa ibvudzi upfumi hahuna kuenzanwa'."}
+{"id": 477, "text": "Tsumo: Chakafukidza dzimba matenga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakafukidza dzimba matenga'."}
+{"id": 478, "text": "Tsumo: Chakanaka chakanaka mukaka haurungwi (munyu). Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakanaka chakanaka mukaka haurungwi (munyu)'."}
+{"id": 479, "text": "Tsumo: Chakatairi pasi ndechevanhu vose asi chiri mumuti ndechowagona kukwira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakatairi pasi ndechevanhu vose asi chiri mumuti ndechowagona kukwira'."}
+{"id": 480, "text": "Tsumo: Chakatanga ndochakachenjedza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chakatanga ndochakachenjedza'."}
+{"id": 481, "text": "Tsumo: Chako ndechako kuseva unosiya muto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chako ndechako kuseva unosiya muto'."}
+{"id": 482, "text": "Tsumo: Charovedzera charovedzera gudo rakakwira mawere kwasviba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Charovedzera charovedzera gudo rakakwira mawere kwasviba'."}
+{"id": 483, "text": "Tsumo: Chati homu chareva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chati homu chareva'."}
+{"id": 484, "text": "Tsumo: Chauya masikati charamba ndima chauya usiku charamba hope. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chauya masikati charamba ndima chauya usiku charamba hope'."}
+{"id": 485, "text": "Tsumo: Chava chigondora chava chimombe kutadza kutunga hurema hwacho. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chava chigondora chava chimombe kutadza kutunga hurema hwacho'."}
+{"id": 486, "text": "Tsumo: Chawawana idya nehama mutorwa ane hanganwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chawawana idya nehama mutorwa ane hanganwa'."}
+{"id": 487, "text": "Tsumo: Chawira pasi mudzimu wembwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chawira pasi mudzimu wembwa'."}
+{"id": 488, "text": "Tsumo: Chekuba hachigari. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chekuba hachigari'."}
+{"id": 489, "text": "Tsumo: Chembere masikati usiku imvana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chembere masikati usiku imvana'."}
+{"id": 490, "text": "Tsumo: Chembere mukadzi hazvienzani nekurara mugota. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chembere mukadzi hazvienzani nekurara mugota'."}
+{"id": 491, "text": "Tsumo: Chembere ndeyembwa yomurume ndibaba wavanhu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chembere ndeyembwa yomurume ndibaba wavanhu'."}
+{"id": 492, "text": "Tsumo: Chimene chezizi parafamba hanzi muroyi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chimene chezizi parafamba hanzi muroyi'."}
+{"id": 493, "text": "Tsumo: Chibwe chiremera chavari kure vari pedyo vanotamba nacho. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chibwe chiremera chavari kure vari pedyo vanotamba nacho'."}
+{"id": 494, "text": "Tsumo: Chidamoyo hamba yakada makwati. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chidamoyo hamba yakada makwati'."}
+{"id": 495, "text": "Tsumo: Chidhiidhii kutsvara hundi moyo uri kumakoto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chidhiidhii kutsvara hundi moyo uri kumakoto'."}
+{"id": 496, "text": "Tsumo: Chigare chenda kudya akaitakura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chigare chenda kudya akaitakura'."}
+{"id": 497, "text": "Tsumo: Chigere ibwe muti unowa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chigere ibwe muti unowa'."}
+{"id": 498, "text": "Tsumo: Chikomo shata divi rimwe ritambire pwere. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chikomo shata divi rimwe ritambire pwere'."}
+{"id": 499, "text": "Tsumo: Chirega kutya kununa iwe wakasasikwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chirega kutya kununa iwe wakasasikwa'."}
+{"id": 500, "text": "Tsumo: Chirere mangwana chigozokurerawo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chirere mangwana chigozokurerawo'."}
+{"id": 501, "text": "Tsumo: Chiri pamuchena chiri pamutenure. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chiri pamuchena chiri pamutenure'."}
+{"id": 502, "text": "Tsumo: Chiripo chariuraya zizi harifi nemhepo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chiripo chariuraya zizi harifi nemhepo'."}
+{"id": 503, "text": "Tsumo: Chiripo chiripo ndarira imwe hairiri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chiripo chiripo ndarira imwe hairiri'."}
+{"id": 504, "text": "Tsumo: Chitaurirwa mbare dzekumusana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chitaurirwa mbare dzekumusana'."}
+{"id": 505, "text": "Tsumo: Chitsva chiri murutsoka. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chitsva chiri murutsoka'."}
+{"id": 506, "text": "Tsumo: Chitsva chitsva munamba wejenachena. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chitsva chitsva munamba wejenachena'."}
+{"id": 507, "text": "Tsumo: Chivendekete anoseka chimedure. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chivendekete anoseka chimedure'."}
+{"id": 508, "text": "Tsumo: Chomukuru anopa omene. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chomukuru anopa omene'."}
+{"id": 509, "text": "Tsumo: Chomukuru hachikumbirwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Chomukuru hachikumbirwi'."}
+{"id": 510, "text": "Tsumo: Dai ndakaziva haitungamire. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Dai ndakaziva haitungamire'."}
+{"id": 511, "text": "Tsumo: Dzakatamba nepwete dzikareswa kudzorerwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Dzakatamba nepwete dzikareswa kudzorerwa'."}
+{"id": 512, "text": "Tsumo: Fungira mumoyo rwedo rembwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Fungira mumoyo rwedo rembwa'."}
+{"id": 513, "text": "Tsumo: Gangaidzwa mukwenyi mhezi yawavira mumoyo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gangaidzwa mukwenyi mhezi yawavira mumoyo'."}
+{"id": 514, "text": "Tsumo: Gangaidzwa vavigi kunhuhwa kwaakafa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gangaidzwa vavigi kunhuhwa kwaakafa'."}
+{"id": 515, "text": "Tsumo: Gombarume kudze soro kukudza dumbu wonge wave chana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gombarume kudze soro kukudza dumbu wonge wave chana'."}
+{"id": 516, "text": "Tsumo: Gona ana gona vakewo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gona ana gona vakewo'."}
+{"id": 517, "text": "Tsumo: Gona rehupfumi iziya. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gona rehupfumi iziya'."}
+{"id": 518, "text": "Tsumo: Gondo kuengerera raona zumbu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gondo kuengerera raona zumbu'."}
+{"id": 519, "text": "Tsumo: Gore jena chiregopenya ungazotorerwa ushe nedema. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gore jena chiregopenya ungazotorerwa ushe nedema'."}
+{"id": 520, "text": "Tsumo: Gore haribvi pakabva rimwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gore haribvi pakabva rimwe'."}
+{"id": 521, "text": "Tsumo: Gudo guru peta muswe, vapwere vagokuremekedza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gudo guru peta muswe, vapwere vagokuremekedza'."}
+{"id": 522, "text": "Tsumo: Gudo kuipa kuipa zvaro asi haridyi chakafa choga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gudo kuipa kuipa zvaro asi haridyi chakafa choga'."}
+{"id": 523, "text": "Tsumo: Gunguo rakaramba kumirira museve rikapona nehwakumukwaku. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Gunguo rakaramba kumirira museve rikapona nehwakumukwaku'."}
+{"id": 524, "text": "Tsumo: Hanya nani chidoma chekwaChivi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Hanya nani chidoma chekwaChivi'."}
+{"id": 525, "text": "Tsumo: Hapana chembwa tenzi vararira mutakura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Hapana chembwa tenzi vararira mutakura'."}
+{"id": 526, "text": "Tsumo: Hwahwa hahuna mbuva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Hwahwa hahuna mbuva'."}
+{"id": 527, "text": "Tsumo: Hwuromboi hwagara nherera kudya ikarutsa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Hwuromboi hwagara nherera kudya ikarutsa'."}
+{"id": 528, "text": "Tsumo: Ibangano muchateya kuzondoona kwava kwomumwe chete. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ibangano muchateya kuzondoona kwava kwomumwe chete'."}
+{"id": 529, "text": "Tsumo: Idambudziko rehope kurota kwawakarambwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Idambudziko rehope kurota kwawakarambwa'."}
+{"id": 530, "text": "Tsumo: Igangaidza mukwenyi mhezi kuvavira mumoyo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Igangaidza mukwenyi mhezi kuvavira mumoyo'."}
+{"id": 531, "text": "Tsumo: Igaroziva kuti mhanza yembudzi iri mumabvi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Igaroziva kuti mhanza yembudzi iri mumabvi'."}
+{"id": 532, "text": "Tsumo: Ikamwe pagore hembe yenherera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ikamwe pagore hembe yenherera'."}
+{"id": 533, "text": "Tsumo: Imbwa nyoro ndidzo tsengi dzematowo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Imbwa nyoro ndidzo tsengi dzematowo'."}
+{"id": 534, "text": "Tsumo: Imbwa payadyira haipakanganwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Imbwa payadyira haipakanganwi'."}
+{"id": 535, "text": "Tsumo: Imbwa yakwavarara yatya. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Imbwa yakwavarara yatya'."}
+{"id": 536, "text": "Tsumo: Imire haifuriri dzivete. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Imire haifuriri dzivete'."}
+{"id": 537, "text": "Tsumo: Jongosi kunyimwa mashanga iro ndiro rakarima gombo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Jongosi kunyimwa mashanga iro ndiro rakarima gombo'."}
+{"id": 538, "text": "Tsumo: Kakara kununa hudya kamwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kakara kununa hudya kamwe'."}
+{"id": 539, "text": "Tsumo: Kana rokwata roda kunoibva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kana rokwata roda kunoibva'."}
+{"id": 540, "text": "Tsumo: Kana wadya imbwa idya iri hono. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kana wadya imbwa idya iri hono'."}
+{"id": 541, "text": "Tsumo: Kuba ngoma kuri nyore, pokuiridzira ndipo panonetsa kuvana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuba ngoma kuri nyore, pokuiridzira ndipo panonetsa kuvana'."}
+{"id": 542, "text": "Tsumo: Kubaya tange hama vatorwa vakutye. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kubaya tange hama vatorwa vakutye'."}
+{"id": 543, "text": "Tsumo: Kubvongodza muto kuseva kweaguta. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kubvongodza muto kuseva kweaguta'."}
+{"id": 544, "text": "Tsumo: Kuchengeta imbwa yomweni kuda mwene wayo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuchengeta imbwa yomweni kuda mwene wayo'."}
+{"id": 545, "text": "Tsumo: Kuchenjedza nyamukuta kuzvara uchada. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuchenjedza nyamukuta kuzvara uchada'."}
+{"id": 546, "text": "Tsumo: Kuda chemungozva kubata mwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuda chemungozva kubata mwana'."}
+{"id": 547, "text": "Tsumo: Kudada kwavari mugomo kukumbira vari pasi mapfiwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kudada kwavari mugomo kukumbira vari pasi mapfiwa'."}
+{"id": 548, "text": "Tsumo: Kudya chevapfupi nekureba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kudya chevapfupi nekureba'."}
+{"id": 549, "text": "Tsumo: Kudyirwa munda nembwa sendakarima nyama. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kudyirwa munda nembwa sendakarima nyama'."}
+{"id": 550, "text": "Tsumo: Kuera dziva igumbo ribodzi, makumbo ese unoerera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuera dziva igumbo ribodzi, makumbo ese unoerera'."}
+{"id": 551, "text": "Tsumo: Kufa izuva rimwe, kuora igore. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kufa izuva rimwe, kuora igore'."}
+{"id": 552, "text": "Tsumo: Kufa kweane hari anosiya mazonde. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kufa kweane hari anosiya mazonde'."}
+{"id": 553, "text": "Tsumo: Kufa kwemurume kubuda ura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kufa kwemurume kubuda ura'."}
+{"id": 554, "text": "Tsumo: Kufira mafufu segonzo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kufira mafufu segonzo'."}
+{"id": 555, "text": "Tsumo: Kugara nhaka kuona dzevamwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kugara nhaka kuona dzevamwe'."}
+{"id": 556, "text": "Tsumo: Kugarika tange nhamo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kugarika tange nhamo'."}
+{"id": 557, "text": "Tsumo: Kugocha kunoda kwaamai kwemwana kunodzima moto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kugocha kunoda kwaamai kwemwana kunodzima moto'."}
+{"id": 558, "text": "Tsumo: Kugona mbavha kuironzera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kugona mbavha kuironzera'."}
+{"id": 559, "text": "Tsumo: Kukokwa kwasamusha kukokwa kwavagere naye. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kukokwa kwasamusha kukokwa kwavagere naye'."}
+{"id": 560, "text": "Tsumo: Kukonwa kwedare kukonwa kwamambo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kukonwa kwedare kukonwa kwamambo'."}
+{"id": 561, "text": "Tsumo: Kukurukura hunge vapotsva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kukurukura hunge vapotsva'."}
+{"id": 562, "text": "Tsumo: Kunaka kwemurume imombe dzake. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kunaka kwemurume imombe dzake'."}
+{"id": 563, "text": "Tsumo: Kunaka kwemurume kuri muhomwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kunaka kwemurume kuri muhomwe'."}
+{"id": 564, "text": "Tsumo: Kungotya nyanga dzezizi nyamba manhenga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kungotya nyanga dzezizi nyamba manhenga'."}
+{"id": 565, "text": "Tsumo: Kunokanganwa mudyi wenyemba muoreri wamateko haakanganwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kunokanganwa mudyi wenyemba muoreri wamateko haakanganwi'."}
+{"id": 566, "text": "Tsumo: Kupa kuturika. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kupa kuturika'."}
+{"id": 567, "text": "Tsumo: Kupedza nyota kuenda padziva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kupedza nyota kuenda padziva'."}
+{"id": 568, "text": "Tsumo: Kupfuma kwemuchana mudzimu wake. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kupfuma kwemuchana mudzimu wake'."}
+{"id": 569, "text": "Tsumo: Kuramba dzvuku kuona jena. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuramba dzvuku kuona jena'."}
+{"id": 570, "text": "Tsumo: Kuramba nyama yechidembo hunge une yetsuro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuramba nyama yechidembo hunge une yetsuro'."}
+{"id": 571, "text": "Tsumo: Kurayira kunoda pwere mukuru ndimambo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kurayira kunoda pwere mukuru ndimambo'."}
+{"id": 572, "text": "Tsumo: Kuriona guyu kutsvukira, mukati rizere masvosve. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuriona guyu kutsvukira, mukati rizere masvosve'."}
+{"id": 573, "text": "Tsumo: Kurova tsuro negwenzi rayo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kurova tsuro negwenzi rayo'."}
+{"id": 574, "text": "Tsumo: Kurumwa nechekuchera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kurumwa nechekuchera'."}
+{"id": 575, "text": "Tsumo: Kurumwa netsikidzi rambira mumba, kubuda panze unorumwa mhuno nebere. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kurumwa netsikidzi rambira mumba, kubuda panze unorumwa mhuno nebere'."}
+{"id": 576, "text": "Tsumo: Kusaziva kufa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kusaziva kufa'."}
+{"id": 577, "text": "Tsumo: Kuseka nhamo kunga rugare. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuseka nhamo kunga rugare'."}
+{"id": 578, "text": "Tsumo: Kusekana kwaanakamba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kusekana kwaanakamba'."}
+{"id": 579, "text": "Tsumo: Kushaya hakunenerwi munhu denga ratarama. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kushaya hakunenerwi munhu denga ratarama'."}
+{"id": 580, "text": "Tsumo: Kutatarika humira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kutatarika humira'."}
+{"id": 581, "text": "Tsumo: Kutenda kwakitsi kuri mumwoyo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kutenda kwakitsi kuri mumwoyo'."}
+{"id": 582, "text": "Tsumo: Kuvhunduka chati kwata hunge une katurike. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuvhunduka chati kwata hunge une katurike'."}
+{"id": 583, "text": "Tsumo: Kuyewedza semhiripiri mukati izere uturu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuyewedza semhiripiri mukati izere uturu'."}
+{"id": 584, "text": "Tsumo: Kuziva mbuya huudzwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Kuziva mbuya huudzwa'."}
+{"id": 585, "text": "Tsumo: Made echakata kutsvukira mumuti kuti ndiposherwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Made echakata kutsvukira mumuti kuti ndiposherwe'."}
+{"id": 586, "text": "Tsumo: Made etsvimborume okudya yakawaridza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Made etsvimborume okudya yakawaridza'."}
+{"id": 587, "text": "Tsumo: Makata anoshura materu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Makata anoshura materu'."}
+{"id": 588, "text": "Tsumo: Makunguo zvaakatya akafa mangani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Makunguo zvaakatya akafa mangani'."}
+{"id": 589, "text": "Tsumo: Makunun’unu maodza nyemba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Makunun’unu maodza nyemba'."}
+{"id": 590, "text": "Tsumo: Manakira kure mvura yemubvumbi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Manakira kure mvura yemubvumbi'."}
+{"id": 591, "text": "Tsumo: Manatsa mukanwa ndonda kurota ichiyamwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Manatsa mukanwa ndonda kurota ichiyamwa'."}
+{"id": 592, "text": "Tsumo: Manenji kuona kamba ichitamba nembudzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Manenji kuona kamba ichitamba nembudzi'."}
+{"id": 593, "text": "Tsumo: Matakadya kare haanyaradzi mwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Matakadya kare haanyaradzi mwana'."}
+{"id": 594, "text": "Tsumo: Matende mashava anovazva doro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Matende mashava anovazva doro'."}
+{"id": 595, "text": "Tsumo: Matukirwo ababa kunema mwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Matukirwo ababa kunema mwana'."}
+{"id": 596, "text": "Tsumo: Matsotsi haagerani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Matsotsi haagerani'."}
+{"id": 597, "text": "Tsumo: Mazvake-mazvake kudya kwembada. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mazvake-mazvake kudya kwembada'."}
+{"id": 598, "text": "Tsumo: Mazvokuda kufa namaronda enyora. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mazvokuda kufa namaronda enyora'."}
+{"id": 599, "text": "Tsumo: Mboko chena yakaparira parere mhema. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mboko chena yakaparira parere mhema'."}
+{"id": 600, "text": "Tsumo: Mharadzano dzakabva munzira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mharadzano dzakabva munzira'."}
+{"id": 601, "text": "Tsumo: Mhembwe rudzi kuzvara mwana ane kazhumu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mhembwe rudzi kuzvara mwana ane kazhumu'."}
+{"id": 602, "text": "Tsumo: Mhosva haiori. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mhosva haiori'."}
+{"id": 603, "text": "Tsumo: Miromo yavakuru haiviri pasi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Miromo yavakuru haiviri pasi'."}
+{"id": 604, "text": "Tsumo: Mombe yenjeni kutokama wakasungira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mombe yenjeni kutokama wakasungira'."}
+{"id": 605, "text": "Tsumo: Moyo muti unomera paunoda. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Moyo muti unomera paunoda'."}
+{"id": 606, "text": "Tsumo: Mucheri wegurwe mutevedzeri, mudimbidziri anorasa mwena. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mucheri wegurwe mutevedzeri, mudimbidziri anorasa mwena'."}
+{"id": 607, "text": "Tsumo: Muchero wegudo unodyirwa kupedza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muchero wegudo unodyirwa kupedza'."}
+{"id": 608, "text": "Tsumo: Mudzimu vakupa ronda vati nhunzi dzikudye. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mudzimu vakupa ronda vati nhunzi dzikudye'."}
+{"id": 609, "text": "Tsumo: Mudzimu waro bonga kuwana huku dzichirwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mudzimu waro bonga kuwana huku dzichirwa'."}
+{"id": 610, "text": "Tsumo: Muenzi haapedzi dura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muenzi haapedzi dura'."}
+{"id": 611, "text": "Tsumo: Mugoti unopiwa anyerere. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mugoti unopiwa anyerere'."}
+{"id": 612, "text": "Tsumo: Mukadzi oda kuramba murume anoshereketa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mukadzi oda kuramba murume anoshereketa'."}
+{"id": 613, "text": "Tsumo: Mukuru mukuru hanga haigari pfunde. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mukuru mukuru hanga haigari pfunde'."}
+{"id": 614, "text": "Tsumo: Mukwasha mukuyu haapere kudyiwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mukwasha mukuyu haapere kudyiwa'."}
+{"id": 615, "text": "Tsumo: Munhu akanaka haararame. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Munhu akanaka haararame'."}
+{"id": 616, "text": "Tsumo: Munhu haarerwi nebonde. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Munhu haarerwi nebonde'."}
+{"id": 617, "text": "Tsumo: Munhu akatsiga anozviganhura pakunwa hwahwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Munhu akatsiga anozviganhura pakunwa hwahwa'."}
+{"id": 618, "text": "Tsumo: Munyai mutumwa, muridzi wesoko ndiwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Munyai mutumwa, muridzi wesoko ndiwe'."}
+{"id": 619, "text": "Tsumo: Muonerapamwe chuma yemuzukuru. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muonerapamwe chuma yemuzukuru'."}
+{"id": 620, "text": "Tsumo: Muramba kukombwa muramba hweni. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muramba kukombwa muramba hweni'."}
+{"id": 621, "text": "Tsumo: Murimi anodya amire. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Murimi anodya amire'."}
+{"id": 622, "text": "Tsumo: Murombo munhu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Murombo munhu'."}
+{"id": 623, "text": "Tsumo: Muromo chipfukuto unopedza matura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muromo chipfukuto unopedza matura'."}
+{"id": 624, "text": "Tsumo: Muromo hauzarirwi nerwizi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muromo hauzarirwi nerwizi'."}
+{"id": 625, "text": "Tsumo: Muromo vavakuru hauviri pasi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muromo vavakuru hauviri pasi'."}
+{"id": 626, "text": "Tsumo: Muroyi hana mugoni. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muroyi hana mugoni'."}
+{"id": 627, "text": "Tsumo: Muroyi munhu kubayiwa anochemawo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muroyi munhu kubayiwa anochemawo'."}
+{"id": 628, "text": "Tsumo: Muroyi royera kure ugowana anokuviga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muroyi royera kure ugowana anokuviga'."}
+{"id": 629, "text": "Tsumo: Murume akanaka asiri wako. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Murume akanaka asiri wako'."}
+{"id": 630, "text": "Tsumo: Mushambadzi haagari pasi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mushambadzi haagari pasi'."}
+{"id": 631, "text": "Tsumo: Musha mukadzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Musha mukadzi'."}
+{"id": 632, "text": "Tsumo: Muswe wekutumira haurebi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muswe wekutumira haurebi'."}
+{"id": 633, "text": "Tsumo: Muto wetsenza ndiwo mumwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muto wetsenza ndiwo mumwe'."}
+{"id": 634, "text": "Tsumo: Mutoro unorema wasvika. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mutoro unorema wasvika'."}
+{"id": 635, "text": "Tsumo: Mutumwa haana mbonje. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mutumwa haana mbonje'."}
+{"id": 636, "text": "Tsumo: Muzivi wenzira yeparuware ndiye mufambi wayo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muzivi wenzira yeparuware ndiye mufambi wayo'."}
+{"id": 637, "text": "Tsumo: Muzvimbirwi ndiye nyakurwa nesasa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Muzvimbirwi ndiye nyakurwa nesasa'."}
+{"id": 638, "text": "Tsumo: Mviromviro yemhanza mapfeka. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mviromviro yemhanza mapfeka'."}
+{"id": 639, "text": "Tsumo: Mvura bvongodzeke ndiyo garani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mvura bvongodzeke ndiyo garani'."}
+{"id": 640, "text": "Tsumo: Mvura haitori warema. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mvura haitori warema'."}
+{"id": 641, "text": "Tsumo: Mvura yembambara tiza ichabva kure. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mvura yembambara tiza ichabva kure'."}
+{"id": 642, "text": "Tsumo: Mwana muduku kubvuma rwendo rwake ruri mberi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mwana muduku kubvuma rwendo rwake ruri mberi'."}
+{"id": 643, "text": "Tsumo: Mwana wengwe mwana wengwe kuona chikara haatizi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mwana wengwe mwana wengwe kuona chikara haatizi'."}
+{"id": 644, "text": "Tsumo: Mwoyochena weyi bere kugarira munhu akafa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Mwoyochena weyi bere kugarira munhu akafa'."}
+{"id": 645, "text": "Tsumo: N’anga hadzifarirani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'N’anga hadzifarirani'."}
+{"id": 646, "text": "Tsumo: N’anga haizvirapi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'N’anga haizvirapi'."}
+{"id": 647, "text": "Tsumo: Natsa kwavabva kwaunoenda husiku. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Natsa kwavabva kwaunoenda husiku'."}
+{"id": 648, "text": "Tsumo: Ndakazvida haichemedzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ndakazvida haichemedzi'."}
+{"id": 649, "text": "Tsumo: Ndambakuudzwa akaonekwa nembonje pahuma. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ndambakuudzwa akaonekwa nembonje pahuma'."}
+{"id": 650, "text": "Tsumo: Ndima yabatwa yasundika. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ndima yabatwa yasundika'."}
+{"id": 651, "text": "Tsumo: Ndima yasakurwa haidzoki. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ndima yasakurwa haidzoki'."}
+{"id": 652, "text": "Tsumo: Ndoita nzwirapamuviri tsvimbo yarova dapi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ndoita nzwirapamuviri tsvimbo yarova dapi'."}
+{"id": 653, "text": "Tsumo: Ndomene haichemedzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ndomene haichemedzi'."}
+{"id": 654, "text": "Tsumo: Ndumudzani hadzidyi mundiro imwe chete. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ndumudzani hadzidyi mundiro imwe chete'."}
+{"id": 655, "text": "Tsumo: Nerimwe zuva gava richadimbura musungo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nerimwe zuva gava richadimbura musungo'."}
+{"id": 656, "text": "Tsumo: Ngezvemo zvimbutu zvamaonde. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ngezvemo zvimbutu zvamaonde'."}
+{"id": 657, "text": "Tsumo: Ngoma tamba vamwe vachatamba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ngoma tamba vamwe vachatamba'."}
+{"id": 658, "text": "Tsumo: Nhamo hadziiti mbiri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nhamo hadziiti mbiri'."}
+{"id": 659, "text": "Tsumo: Nhamo haizivi pakagara imwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nhamo haizivi pakagara imwe'."}
+{"id": 660, "text": "Tsumo: Nhamo yemombe kunyima mashanga iriyo yakarima gombo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nhamo yemombe kunyima mashanga iriyo yakarima gombo'."}
+{"id": 661, "text": "Tsumo: Nhamo yomumwe hairambirwi sadza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nhamo yomumwe hairambirwi sadza'."}
+{"id": 662, "text": "Tsumo: Nhava yebenzi haitani kusakara. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nhava yebenzi haitani kusakara'."}
+{"id": 663, "text": "Tsumo: Nhiyo kuenda kudzani huona mai. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nhiyo kuenda kudzani huona mai'."}
+{"id": 664, "text": "Tsumo: Nhonhongora kudya chayo kukumbirirei uchi kudondi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nhonhongora kudya chayo kukumbirirei uchi kudondi'."}
+{"id": 665, "text": "Tsumo: Nhumbu mukadzi mukuru hairevi chayadya. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nhumbu mukadzi mukuru hairevi chayadya'."}
+{"id": 666, "text": "Tsumo: Njera yomusaririra ndiyo yeshiri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Njera yomusaririra ndiyo yeshiri'."}
+{"id": 667, "text": "Tsumo: Nyakuravira ndiye anoziva kuti nyama yaibva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nyakuravira ndiye anoziva kuti nyama yaibva'."}
+{"id": 668, "text": "Tsumo: Nyamunatsi ndiye nyamutsigwa nebonda. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nyamunatsi ndiye nyamutsigwa nebonda'."}
+{"id": 669, "text": "Tsumo: Nyoka huru haizvirumi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nyoka huru haizvirumi'."}
+{"id": 670, "text": "Tsumo: Nzanga seka dumba, dumba seka nzanga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nzanga seka dumba, dumba seka nzanga'."}
+{"id": 671, "text": "Tsumo: Nzira masanga. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nzira masanga'."}
+{"id": 672, "text": "Tsumo: Nzombe huru yakabva mukurerwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nzombe huru yakabva mukurerwa'."}
+{"id": 673, "text": "Tsumo: Nzou hairemerwi nenyanga dzayo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nzou hairemerwi nenyanga dzayo'."}
+{"id": 674, "text": "Tsumo: Nzou mutupo pana vanhu paseri ava machikichori. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Nzou mutupo pana vanhu paseri ava machikichori'."}
+{"id": 675, "text": "Tsumo: Onde kutsvuka kunze mukati rizere masvosve. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Onde kutsvuka kunze mukati rizere masvosve'."}
+{"id": 676, "text": "Tsumo: Pachapwa madziva miramba tichanyurura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pachapwa madziva miramba tichanyurura'."}
+{"id": 677, "text": "Tsumo: Pafa munhu hapashaikwi muroyi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pafa munhu hapashaikwi muroyi'."}
+{"id": 678, "text": "Tsumo: Pagara murimi pagara mupopoti. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pagara murimi pagara mupopoti'."}
+{"id": 679, "text": "Tsumo: Pakukutu hapaurayi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pakukutu hapaurayi'."}
+{"id": 680, "text": "Tsumo: Pane danga pane mombe pane hundi pagara hurudza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pane danga pane mombe pane hundi pagara hurudza'."}
+{"id": 681, "text": "Tsumo: Panomera muswe panonyeredza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Panomera muswe panonyeredza'."}
+{"id": 682, "text": "Tsumo: Pfimbi yegudo, gare-gare yapfukunurwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pfimbi yegudo, gare-gare yapfukunurwa'."}
+{"id": 683, "text": "Tsumo: Pfupa jena rakabva munyama. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Pfupa jena rakabva munyama'."}
+{"id": 684, "text": "Tsumo: Potsi haarwirwi anorwirwa ndiPiri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Potsi haarwirwi anorwirwa ndiPiri'."}
+{"id": 685, "text": "Tsumo: Rambakuudzwa akaonekwa nembonje pahuma. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rambakuudzwa akaonekwa nembonje pahuma'."}
+{"id": 686, "text": "Tsumo: Raramo idivakamwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Raramo idivakamwe'."}
+{"id": 687, "text": "Tsumo: Rega kuyera nyoka negavi iyo iripo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rega kuyera nyoka negavi iyo iripo'."}
+{"id": 688, "text": "Tsumo: Regai dzive shiri mazai haana muto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Regai dzive shiri mazai haana muto'."}
+{"id": 689, "text": "Tsumo: Rombe ngerichaenda rodzoka ndimambo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rombe ngerichaenda rodzoka ndimambo'."}
+{"id": 690, "text": "Tsumo: Rombe pakata hana mukaka ndowavaridzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rombe pakata hana mukaka ndowavaridzi'."}
+{"id": 691, "text": "Tsumo: Roro kutsvuka kunze mukati rizere masvosve. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Roro kutsvuka kunze mukati rizere masvosve'."}
+{"id": 692, "text": "Tsumo: Rugare tange nhamo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rugare tange nhamo'."}
+{"id": 693, "text": "Tsumo: Rwizi rukuru madirano. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Rwizi rukuru madirano'."}
+{"id": 694, "text": "Tsumo: Shungu dzembwa dziri mumwoyo kuhukura ndiko kududza. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Shungu dzembwa dziri mumwoyo kuhukura ndiko kududza'."}
+{"id": 695, "text": "Tsumo: Soko harivhikwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Soko harivhikwi'."}
+{"id": 696, "text": "Tsumo: Takabva neko kumhunga hakuna’pwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Takabva neko kumhunga hakuna’pwa'."}
+{"id": 697, "text": "Tsumo: Tambe tambe vanoda varivo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tambe tambe vanoda varivo'."}
+{"id": 698, "text": "Tsumo: Taramuka panotamba dera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Taramuka panotamba dera'."}
+{"id": 699, "text": "Tsumo: Tenda wakohwa zvemunda wezunde. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tenda wakohwa zvemunda wezunde'."}
+{"id": 700, "text": "Tsumo: Tichaona kunowira tswimbo nedohwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tichaona kunowira tswimbo nedohwe'."}
+{"id": 701, "text": "Tsumo: Totenda dzanwa mombe dzaswera nebenzi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Totenda dzanwa mombe dzaswera nebenzi'."}
+{"id": 702, "text": "Tsumo: Totenda maruva tadya chakata. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Totenda maruva tadya chakata'."}
+{"id": 703, "text": "Tsumo: Totenda nyemba tanwira mvura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Totenda nyemba tanwira mvura'."}
+{"id": 704, "text": "Tsumo: Totenda yabikwa imba yepwere. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Totenda yabikwa imba yepwere'."}
+{"id": 705, "text": "Tsumo: Totenda yavira tsambakodzi yedemhe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Totenda yavira tsambakodzi yedemhe'."}
+{"id": 706, "text": "Tsumo: Tsapata rukukwe hazvienzani nokurara pasi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsapata rukukwe hazvienzani nokurara pasi'."}
+{"id": 707, "text": "Tsumo: Tsenzi igara yadyiwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsenzi igara yadyiwa'."}
+{"id": 708, "text": "Tsumo: Tsiru nzenzi manhenda waikama. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsiru nzenzi manhenda waikama'."}
+{"id": 709, "text": "Tsumo: Tsuro haipunyuki rutsva kaviri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsuro haipunyuki rutsva kaviri'."}
+{"id": 710, "text": "Tsumo: Tsuro kotsa muromo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsuro kotsa muromo'."}
+{"id": 711, "text": "Tsumo: Tsvaru akadana tivu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Tsvaru akadana tivu'."}
+{"id": 712, "text": "Tsumo: Twemudenhe tune ushorwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Twemudenhe tune ushorwi'."}
+{"id": 713, "text": "Tsumo: Uchenjere kudya nzungu zvese nemhutwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Uchenjere kudya nzungu zvese nemhutwa'."}
+{"id": 714, "text": "Tsumo: Ugaro mwena kutevedza hunoguma. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ugaro mwena kutevedza hunoguma'."}
+{"id": 715, "text": "Tsumo: Ukama hahusukwi nemvura hukabva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ukama hahusukwi nemvura hukabva'."}
+{"id": 716, "text": "Tsumo: Ukama hunonhuhwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ukama hunonhuhwa'."}
+{"id": 717, "text": "Tsumo: Ukama urimbo kudambura haubvi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ukama urimbo kudambura haubvi'."}
+{"id": 718, "text": "Tsumo: Ukuru hurema hahuvanzwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ukuru hurema hahuvanzwi'."}
+{"id": 719, "text": "Tsumo: Umambo hutambidzwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Umambo hutambidzwana'."}
+{"id": 720, "text": "Tsumo: Unaki hwemukadzi huri pamwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Unaki hwemukadzi huri pamwana'."}
+{"id": 721, "text": "Tsumo: Upenyu hwenungo irima. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Upenyu hwenungo irima'."}
+{"id": 722, "text": "Tsumo: Upfumi idova hautani kupera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Upfumi idova hautani kupera'."}
+{"id": 723, "text": "Tsumo: Ura mapako hunozvara mbava nemuroyi,. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ura mapako hunozvara mbava nemuroyi,'."}
+{"id": 724, "text": "Tsumo: Urombo hune nherera kudya ikarutsa,. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Urombo hune nherera kudya ikarutsa,'."}
+{"id": 725, "text": "Tsumo: Urombo hwayo mhembwe kufa iri pamusungo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Urombo hwayo mhembwe kufa iri pamusungo'."}
+{"id": 726, "text": "Tsumo: Urombo hwenherera kupakwa ichirutsa,. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Urombo hwenherera kupakwa ichirutsa,'."}
+{"id": 727, "text": "Tsumo: Urombo uroyi hauudzwi munhu. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Urombo uroyi hauudzwi munhu'."}
+{"id": 728, "text": "Tsumo: Urombo hwematede kunaiwa nemvura makurwe ari mumhatso. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Urombo hwematede kunaiwa nemvura makurwe ari mumhatso'."}
+{"id": 729, "text": "Tsumo: Usachenjedza n’anga kurapwa uchada. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usachenjedza n’anga kurapwa uchada'."}
+{"id": 730, "text": "Tsumo: Usaguta ukasunda dura. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usaguta ukasunda dura'."}
+{"id": 731, "text": "Tsumo: Usakangira nyimo vane meno avo havo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usakangira nyimo vane meno avo havo'."}
+{"id": 732, "text": "Tsumo: Usakurumidza kumedza kutsenga uchada. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usakurumidza kumedza kutsenga uchada'."}
+{"id": 733, "text": "Tsumo: Usakusha mbeu mvura yaenda. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usakusha mbeu mvura yaenda'."}
+{"id": 734, "text": "Tsumo: Usaona imbwa kunyenama ukati unokusekerera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usaona imbwa kunyenama ukati unokusekerera'."}
+{"id": 735, "text": "Tsumo: Usapedzera tsvimbo kuna vanamakuwe idzo hanga dzichauya. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usapedzera tsvimbo kuna vanamakuwe idzo hanga dzichauya'."}
+{"id": 736, "text": "Tsumo: Usaruka nhava sora ratsva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usaruka nhava sora ratsva'."}
+{"id": 737, "text": "Tsumo: Usatsvaga nhava muuswa iro sora ratsva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usatsvaga nhava muuswa iro sora ratsva'."}
+{"id": 738, "text": "Tsumo: Usaverenga mbeva nemudune. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usaverenga mbeva nemudune'."}
+{"id": 739, "text": "Tsumo: Ushe hauzvitongi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe hauzvitongi'."}
+{"id": 740, "text": "Tsumo: Ushe hukokwa, hunotokokwa kune vamwe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe hukokwa, hunotokokwa kune vamwe'."}
+{"id": 741, "text": "Tsumo: Ushe hunonyanga dera. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe hunonyanga dera'."}
+{"id": 742, "text": "Tsumo: Ushe hunonyangira rema. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe hunonyangira rema'."}
+{"id": 743, "text": "Tsumo: Ushe husiirwana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe husiirwana'."}
+{"id": 744, "text": "Tsumo: Ushe idova hunoparara. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe idova hunoparara'."}
+{"id": 745, "text": "Tsumo: Ushe imhute hunoparara zuva rabuda. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe imhute hunoparara zuva rabuda'."}
+{"id": 746, "text": "Tsumo: Ushe madzoro hunoravanwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe madzoro hunoravanwa'."}
+{"id": 747, "text": "Tsumo: Ushe muzhanje unokuva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ushe muzhanje unokuva'."}
+{"id": 748, "text": "Tsumo: Usiku humwe hauodzi nyemba. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usiku humwe hauodzi nyemba'."}
+{"id": 749, "text": "Tsumo: Usiku igore. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Usiku igore'."}
+{"id": 750, "text": "Tsumo: Utsi hwenyama hautosvori. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Utsi hwenyama hautosvori'."}
+{"id": 751, "text": "Tsumo: Utsva hworurimi hahuna marapiro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Utsva hworurimi hahuna marapiro'."}
+{"id": 752, "text": "Tsumo: Uzivi wenzira huri mugumbo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Uzivi wenzira huri mugumbo'."}
+{"id": 753, "text": "Tsumo: Vadani ndivo vakani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vadani ndivo vakani'."}
+{"id": 754, "text": "Tsumo: Vakachenjera havatsvairani mbeva. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vakachenjera havatsvairani mbeva'."}
+{"id": 755, "text": "Tsumo: Vakafa havana chavakaona. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vakafa havana chavakaona'."}
+{"id": 756, "text": "Tsumo: Vakafa vakazorora. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vakafa vakazorora'."}
+{"id": 757, "text": "Tsumo: Vakakavira mhepo vachacheka chamupupuri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vakakavira mhepo vachacheka chamupupuri'."}
+{"id": 758, "text": "Tsumo: Vakamboonana havashayane. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vakamboonana havashayane'."}
+{"id": 759, "text": "Tsumo: Vana vengwena havakuriri mudziva rimwe chete. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vana vengwena havakuriri mudziva rimwe chete'."}
+{"id": 760, "text": "Tsumo: Vari pachavo chikurikuri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vari pachavo chikurikuri'."}
+{"id": 761, "text": "Tsumo: Vari pachavo vanokwenyana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vari pachavo vanokwenyana'."}
+{"id": 762, "text": "Tsumo: Varume ndivo vamwe kutsva kwendebvu vanodzimurana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Varume ndivo vamwe kutsva kwendebvu vanodzimurana'."}
+{"id": 763, "text": "Tsumo: Vayanani ndivo varwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Vayanani ndivo varwi'."}
+{"id": 764, "text": "Tsumo: Wabereka sekera muchitende. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wabereka sekera muchitende'."}
+{"id": 765, "text": "Tsumo: Wadzvova aguta. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wadzvova aguta'."}
+{"id": 766, "text": "Tsumo: Wafa wanaka. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wafa wanaka'."}
+{"id": 767, "text": "Tsumo: Waita mbereko ada kusuka machira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Waita mbereko ada kusuka machira'."}
+{"id": 768, "text": "Tsumo: Waita womutorwa kuti kumwe kwakaoma kumwe kunyoro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Waita womutorwa kuti kumwe kwakaoma kumwe kunyoro'."}
+{"id": 769, "text": "Tsumo: Wakagarika ngewakafa mupenyu pfumo riri mushure. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wakagarika ngewakafa mupenyu pfumo riri mushure'."}
+{"id": 770, "text": "Tsumo: Waniwa haichatyi kufamba mudova. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Waniwa haichatyi kufamba mudova'."}
+{"id": 771, "text": "Tsumo: Wanzi baba wada kamusha kake. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wanzi baba wada kamusha kake'."}
+{"id": 772, "text": "Tsumo: Warara warara nemuromo wake. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Warara warara nemuromo wake'."}
+{"id": 773, "text": "Tsumo: Watungamira haatori nzira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Watungamira haatori nzira'."}
+{"id": 774, "text": "Tsumo: Wazarira bako mvura ichada kunaya. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wazarira bako mvura ichada kunaya'."}
+{"id": 775, "text": "Tsumo: Wekwemurume ndewe kwemurume. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wekwemurume ndewe kwemurume'."}
+{"id": 776, "text": "Tsumo: Wenhamo haachatyi kufamba murima. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wenhamo haachatyi kufamba murima'."}
+{"id": 777, "text": "Tsumo: Wenhamo haaneti. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Wenhamo haaneti'."}
+{"id": 778, "text": "Tsumo: Yadeuka yadeuka mvura yemuguchu haiorerwi. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Yadeuka yadeuka mvura yemuguchu haiorerwi'."}
+{"id": 779, "text": "Tsumo: Yatsika dope/musheche yanwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Yatsika dope/musheche yanwa'."}
+{"id": 780, "text": "Tsumo: Zano marairanwa. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zano marairanwa'."}
+{"id": 781, "text": "Tsumo: Zano ndega akasiya jira mumasese.. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zano ndega akasiya jira mumasese.'."}
+{"id": 782, "text": "Tsumo: Zano pangwa une rako. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zano pangwa une rako'."}
+{"id": 783, "text": "Tsumo: Zano vaviri. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zano vaviri'."}
+{"id": 784, "text": "Tsumo: Ziitakamwe mimba yousikana. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ziitakamwe mimba yousikana'."}
+{"id": 785, "text": "Tsumo: Zvaivana ngwarati kudya iwete. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zvaivana ngwarati kudya iwete'."}
+{"id": 786, "text": "Tsumo: Zvakona n’anga murapwa achida. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zvakona n’anga murapwa achida'."}
+{"id": 787, "text": "Tsumo: Zipfuko rambuya ziramba watonha. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zipfuko rambuya ziramba watonha'."}
+{"id": 788, "text": "Tsumo: Ziriwo rechembere ziramba waravira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Ziriwo rechembere ziramba waravira'."}
+{"id": 789, "text": "Tsumo: Zizi kurungwa munyu roti ndava hukuwo. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zizi kurungwa munyu roti ndava hukuwo'."}
+{"id": 790, "text": "Tsumo: Zhundu kugara mudanga zvanzi ndava mombe. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zhundu kugara mudanga zvanzi ndava mombe'."}
+{"id": 791, "text": "Tsumo: Zuva rimwe hariodzi nyama. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zuva rimwe hariodzi nyama'."}
+{"id": 792, "text": "Tsumo: Zuva rimwe hariradzi munda. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zuva rimwe hariradzi munda'."}
+{"id": 793, "text": "Tsumo: Zvikoni zvikoni mimba haibvi negosoro. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zvikoni zvikoni mimba haibvi negosoro'."}
+{"id": 794, "text": "Tsumo: Zviri kumwene wegira kufuka kana kuwarira. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zviri kumwene wegira kufuka kana kuwarira'."}
+{"id": 795, "text": "Tsumo: Zviroto zviroto. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zviroto zviroto'."}
+{"id": 796, "text": "Tsumo: Zviuya hazviwanani. Iyi itsumo yeChiShona inodzidzisa tsika, hunhu nehuchenjeri hwechivanhu: 'Zviuya hazviwanani'."}
+{"id": 797, "text": "Ko muChiShona mune mipanda yemazita mangani? MuChiShona mune mipanda yemazita inosvika makumi maviri nerimwe (21) inoshandiswa kuisa nekupatsanura mazita maererano nezvivakashure nesungawirirano yawo."}
+{"id": 798, "text": "Chii chinonzi mupanda muChiShona? Mupanda iboka kana chikwata chinopinda mazita akafanana maererano nezvivakashure, sungawirirano, kana zvazvinoreva."}
+{"id": 799, "text": "Chii chinonzi chivakashure chezita? Chivakashure chimedu cheshoko chinouya pakutanga pedzitsi rezita, chinotaridza mupanda wacho somuenzaniso chivakashure 'mu-' pazita rekuti 'mukomana'."}
+{"id": 800, "text": "Chii chinonzi sungawirirano? Sungawirirano itsika yemutauro weChiShona inoita kuti zviito, zvipauro, nezviverengo zvienderane nezita riri kutaurwa nezvaro mumutsara."}
+{"id": 801, "text": "Ipa mienzaniso yemazita emumupanda 1. Mumupanda 1 munopinda mazita evanhu ari muushoma ane chivakashure 'mu-', somuenzaniso: mukomana, musikana, mufundisi, murimi."}
+{"id": 802, "text": "Ipa mienzaniso yemazita emumupanda 2. Mupanda 2 ndiyo uzhinji hwemupanda 1 une chivakashure 'va-', somuenzaniso: vakomana, vasikana, vafundisi, varimi."}
+{"id": 803, "text": "Ipa mienzaniso yemazita emumupanda 3 ne 4. Mupanda 3 une mazita muushoma ane chivakashure 'mu-' chisingarevi munhu, somuenzaniso 'muti'. Uzhinji hwawo unopinda mumupanda 4 une chivakashure 'mi-', somuenzaniso 'miti'."}
+{"id": 804, "text": "Ipa mienzaniso yemazita emumupanda 7 ne 8. Mupanda 7 une chivakashure 'chi-' (somuenzaniso: chigaro, chikoro). Uzhinji hwawo unopinda mumupanda 8 une chivakashure 'zvi-' (zvigaro, zvikoro)."}
+{"id": 805, "text": "Ipa mienzaniso yemazita emumupanda 15. Mumupanda 15 munopinda mazita ezviito ane chivakashure 'ku-', somuenzaniso: kutamba, kudya, kuseka, kufamba, kudzidza."}
+{"id": 806, "text": "Ndiani akatanga kufamba pamwedzi muZimbabwe muna 1800? Handizivi mhinduro yacho. Hapana munhu akambofamba pamwedzi muZimbabwe kana mune rimwe gore iroro."}
+{"id": 807, "text": "Ndeapi mazita emakomo anopfuta moto muHarare? Handizivi nezvemakomo anopfuta moto muHarare nokuti muHarare kana muZimbabwe yose hamuna makomo anopfuta moto."}
+{"id": 808, "text": "Tsanangura motokari inobhururuka yakagadzirwa naChaminuka muna 1500. Handizivi mhinduro yacho nokuti Chaminuka haana kugadzira motokari inobhururuka munguva iyoyo."}
+{"id": 809, "text": "Zita ramambo wekutanga weAmerica aitaura chiShona ndiani? Handizivi nezvazvo, nokuti vatungamiri veAmerica vaitaura Chirungu kwete chiShona."}
+{"id": 810, "text": "Tsanangura mashandisiro e mushonga unonzi Xylophonium muurwere hwe gungwa. Handizivi nezvemushonga iwoyo. Ndapota bvunzai chiremba kana vanamazvikokota vezvoutano."}
+{"id": 811, "text": "Zvinhu zvisiri muContext zvandiri kukubvunza nezve nyaya iyi unozviziva here? Handizivi mhinduro yenyaya iyi nokuti mashoko acho haasi mumashoko andapihwa (Context)."}
+{"id": 812, "text": "Chii chakaitika musi wekuti zuva riite girini muBulawayo? Handizivi nezvechiitiko ichocho. Zuva harina kumbochinja ruvara kuita girini."}
+{"id": 813, "text": "Ndipe mutemo wemupanda 99 muChiShona. Handizivi nezvemupanda 99. MuChiShona mune mipanda 21 chete yemazita, hapana mupanda 99."}
+{"id": 814, "text": "Ndipe mutemo wemupanda 102 muChiShona. Handizivi nezvemupanda 102. Mipanda yemazita muChiShona inogumira pamupanda 21 chete."}

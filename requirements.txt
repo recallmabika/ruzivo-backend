@@ -1,0 +1,38 @@
+# Ruzivo AI - Data Pipeline Dependencies
+# Install: pip install -r requirements.txt
+
+# Hugging Face datasets and model libraries
+datasets>=2.19.0
+huggingface-hub>=0.23.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Text cleaning and NLP
+regex>=2023.0.0
+langdetect>=1.0.9
+ftlangdetect>=0.2.0
+
+# Wikipedia processing
+mwparserfromhell>=0.6.0
+wikiextractor>=3.0.0
+
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# OCR (for book digitization)
+pytesseract>=0.3.10
+Pillow>=10.0.0
+PyMuPDF>=1.24.0
+
+# Document processing
+python-docx>=1.1.0
+
+# Progress bars
+tqdm>=4.66.0
+
+# JSON/JSONL handling
+jsonlines>=4.0.0

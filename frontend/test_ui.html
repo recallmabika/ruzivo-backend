@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="sn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ruzivo AI — Shona Conversational Testing Interface</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0B0F19;
+      --card: #151D2F;
+      --border: #222F49;
+      --accent: #10B981;
+      --accent-glow: rgba(16, 185, 129, 0.2);
+      --text: #F8FAFC;
+      --text-muted: #94A3B8;
+      --bot-bg: #1E293B;
+      --user-bg: #047857;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Plus Jakarta Sans', sans-serif; }
+    body { background: var(--bg); color: var(--text); display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
+    
+    header {
+      padding: 16px 24px;
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .brand { display: flex; align-items: center; gap: 12px; }
+    .logo { width: 38px; height: 38px; background: var(--accent); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-weight: 700; color: #064E3B; font-size: 20px; }
+    .title h1 { font-size: 18px; font-weight: 700; }
+    .title p { font-size: 12px; color: var(--text-muted); }
+    .badge { font-size: 11px; background: var(--accent-glow); color: var(--accent); padding: 4px 10px; border-radius: 20px; border: 1px solid var(--accent); }
+
+    main { flex: 1; display: flex; overflow: hidden; }
+    
+    /* Left Sidebar: Knowledge & Context */
+    .sidebar {
+      width: 320px;
+      background: var(--card);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      padding: 16px;
+      gap: 16px;
+      overflow-y: auto;
+    }
+    .sidebar h3 { font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 8px; }
+    .quick-prompts { display: flex; flex-direction: column; gap: 8px; }
+    .btn-prompt {
+      background: #0F172A;
+      border: 1px solid var(--border);
+      padding: 10px 12px;
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 13px;
+      text-align: left;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn-prompt:hover { border-color: var(--accent); background: #1E293B; }
+    .rag-status { background: #0F172A; padding: 12px; border-radius: 8px; border: 1px solid var(--border); font-size: 12px; }
+    .rag-status span { color: var(--accent); font-weight: 600; }
+
+    /* Chat Area */
+    .chat-container { flex: 1; display: flex; flex-direction: column; background: var(--bg); }
+    .messages { flex: 1; padding: 24px; overflow-y: auto; display: flex; flex-direction: column; gap: 16px; }
+    .msg { max-width: 75%; padding: 14px 18px; border-radius: 14px; font-size: 14px; line-height: 1.5; word-break: break-word; }
+    .msg.user { align-self: flex-end; background: var(--user-bg); color: #fff; border-bottom-right-radius: 4px; }
+    .msg.bot { align-self: flex-start; background: var(--bot-bg); color: var(--text); border: 1px solid var(--border); border-bottom-left-radius: 4px; }
+    .msg .retrieved-context { margin-top: 8px; padding-top: 8px; border-top: 1px solid rgba(255,255,255,0.1); font-size: 12px; color: #34D399; font-style: italic; }
+
+    .input-area {
+      padding: 16px 24px;
+      background: var(--card);
+      border-top: 1px solid var(--border);
+      display: flex;
+      gap: 12px;
+    }
+    input {
+      flex: 1;
+      background: #0F172A;
+      border: 1px solid var(--border);
+      padding: 14px 18px;
+      border-radius: 10px;
+      color: var(--text);
+      font-size: 14px;
+      outline: none;
+    }
+    input:focus { border-color: var(--accent); }
+    button.btn-send {
+      background: var(--accent);
+      color: #064E3B;
+      font-weight: 700;
+      border: none;
+      padding: 0 24px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: opacity 0.2s;
+    }
+    button.btn-send:hover { opacity: 0.9; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="brand">
+      <div class="logo">R</div>
+      <div class="title">
+        <h1>Ruzivo AI</h1>
+        <p>Text-Based Conversational Shona AI System</p>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <input type="text" id="colabUrl" placeholder="Colab GPU URL (e.g. https://xxxx.loca.lt)" style="padding: 6px 12px; font-size: 12px; width: 280px; border-radius: 6px;" />
+      <div class="badge" id="statusBadge">● Ready</div>
+    </div>
+  </header>
+
+  <main>
+    <div class="sidebar">
+      <div>
+        <h3>RAG Grounding Status</h3>
+        <div class="rag-status">
+          <p>Database: <span>14,201 Educational Chunks</span></p>
+          <p>Active Knowledge: <span>Mipanda, Nyaudzosingwi, Tsumo</span></p>
+          <p>Anti-Hallucination: <span>Enabled (Handizivi Refusal)</span></p>
+        </div>
+      </div>
+
+      <div>
+        <h3>Sample Prompts to Test</h3>
+        <div class="quick-prompts">
+          <button class="btn-prompt" onclick="setPrompt('Tsanangura tsumo iyi: Akuruma nzeve ndewako')">📜 Tsumo: Akuruma nzeve ndewako</button>
+          <button class="btn-prompt" onclick="setPrompt('Chii chinonzi nyaudzosingwi banga?')">⚡ Nyaudzosingwi: banga</button>
+          <button class="btn-prompt" onclick="setPrompt('MuChiShona mune mipanda yemazita mangani?')">📚 Mipanda: Inosvika mangani?</button>
+          <button class="btn-prompt" onclick="setPrompt('Ndipe mutemo wemupanda 99 muChiShona.')">🛡️ Hallucination Test: Mupanda 99</button>
+          <button class="btn-prompt" onclick="setPrompt('Ndiani akatanga kufamba pamwedzi muHarare muna 1800?')">🛡️ Hallucination Test: Mwedzi muHarare</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="chat-container">
+      <div class="messages" id="messages">
+        <div class="msg bot">
+          Mhoro! Ini ndiri Ruzivo, mubatsiri wenyu wehungwaru wekunyora nekutaura muChiShona chete. Bvunzai mubvunzo upi zvawo maererano nemutauro weChiShona, tsumo, mipanda, kana nyaudzosingwi.
+        </div>
+      </div>
+
+      <div class="input-area">
+        <input type="text" id="userInput" placeholder="Nyora mubvunzo wenyu pano muChiShona..." onkeypress="handleKey(event)" />
+        <button class="btn-send" onclick="send()">Tumira</button>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    function setPrompt(txt) {
+      document.getElementById('userInput').value = txt;
+    }
+
+    function handleKey(e) {
+      if (e.key === 'Enter') send();
+    }
+
+    async function send() {
+      const input = document.getElementById('userInput');
+      const text = input.value.trim();
+      if (!text) return;
+
+      const msgs = document.getElementById('messages');
+
+      // Add user message
+      const userDiv = document.createElement('div');
+      userDiv.className = 'msg user';
+      userDiv.innerText = text;
+      msgs.appendChild(userDiv);
+      input.value = '';
+      msgs.scrollTop = msgs.scrollHeight;
+
+      // Loading bubble
+      const botDiv = document.createElement('div');
+      botDiv.className = 'msg bot';
+      botDiv.innerText = 'Ruzivo ruri kufunga...';
+      msgs.appendChild(botDiv);
+      msgs.scrollTop = msgs.scrollHeight;
+
+      try {
+        let endpoint = '/api/chat';
+        const customUrl = document.getElementById('colabUrl').value.trim();
+        if (customUrl) {
+          endpoint = customUrl.replace(/\/$/, '') + '/api/chat';
+        }
+
+        const response = await fetch(endpoint, {
+          method: 'POST',
+          headers: { 
+            'Content-Type': 'application/json',
+            'Bypass-Tunnel-Reminder': 'true'
+          },
+          body: JSON.stringify({ message: text })
+        });
+        const data = await response.json();
+
+        let cleanReply = data.response || "";
+        // Strip special tokens and repetition artifacts if the model emitted them
+        cleanReply = cleanReply.replace(/<\|im_end\|>.*$/s, '');
+        cleanReply = cleanReply.replace(/<\|im_start\|>.*$/s, '');
+        cleanReply = cleanReply.replace(/(\b[A-Za-z\u00C0-\u024F]+\b)(?:\s+\1){3,}/gi, '$1');
+        cleanReply = cleanReply.replace(/[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]/g, '');
+        cleanReply = cleanReply.trim();
+
+        botDiv.innerText = cleanReply || "Handizivi mhinduro yacho.";
+        if (data.context) {
+          const ctxSpan = document.createElement('div');
+          ctxSpan.className = 'retrieved-context';
+          ctxSpan.innerText = '🔍 Retrieved Context: ' + data.context;
+          botDiv.appendChild(ctxSpan);
+        }
+      } catch (err) {
+        botDiv.innerText = 'Tine hurombo, paita dambudziko rekubatanidza neServer: ' + err.message;
+      }
+      msgs.scrollTop = msgs.scrollHeight;
+    }
+  </script>
+</body>
+</html>
